@@ -1,0 +1,154 @@
+<!DOCTYPE HTML>
+<!--
+	Minimaxing by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Лаборатория поверхностных сил</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+	</head>
+	<body>
+		<div id="page-wrapper">
+			<div id="header-wrapper">
+				<div class="container">
+					<div class="row">
+						<div class="12u">
+
+							<header id="header">
+                                                                
+								<div id="enhanced_logo">
+                                                                  <img src="images/surf-force2.png"></img>
+                                                                  <h1><a href="#" id="logo">Лаборатория</a></h1>
+                                                                  <h2 style=""><a href="#" style="text-decoration: none; color:white; ">поверхностных сил</a></h2>
+                                                                <div>
+								<nav id="nav">
+									<a href="index.html">Главная</a>
+									<a href="research.html">Научная деятельность</a>
+									<a href="career.html" >Работа</a>
+									<a href="asper.html">Аспирантура</a>
+									<a href="contacts.html">Контакты</a>
+								</nav>
+							</header>
+
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div id="main">
+				<div class="container">
+					<div class="row main-row">
+
+								<h2 style="text-align:center;float:none;">Всероссийский семинар"Физико-химия поверхностей и наноразмерных систем"</h2>
+						<div class="6u 12u(mobile)">
+
+							<section class="left-content">
+                                                                <a href="assets/Program_2016.pdf">
+									Программа 7го Всероссийскийского семинара "Физико-химия поверхностей и наноразмерных систем"
+									<img src="images/pdf-icon.png" style="height:32px;"></img>
+								</a>
+								<p>Москва, 2 – 3 февраля 2015 года</p>
+								<hr/>
+								<ul class="contact-list">
+								<p>Связаться с организаторами:<p>
+									<li>email: <a href="mailto:9554625@mail.ru">9554625@mail.ru</a></li>
+									<li>Телефон: <a href="tel:+74959554625">+7(495)955-46-25</a></li>
+								</ul>
+							</section>
+						</div>
+						<div class="6u 12u(mobile)">
+
+							<section class="left-content">
+
+							<p>г.Москва, Ленинский проспект, д. 31/4</p>
+								<a href="https://goo.gl/maps/CQfKNon8zmp"><img src="images/map.png"  style="max-width:100%;"></img></a>
+							</section>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+			<div id="footer-wrapper">
+				<div class="container">
+					<div class="row">
+						<div class="12u 12u(mobile)">
+
+							<section>
+								<div>
+									<div class="row">
+
+										<div class="1u 1u(mobile)"></div>
+										<div class="3u 3u(mobile)">
+											<a href="http://www.phyche.ac.ru/"><img src="images/IPCE.png" style="max-width:100%;text-align:center;"></img>
+												<p style="text-align:center;">Институт Физической Химии и Электрохимии РАН</p>
+											</a>
+										</div>
+										<div class="1u 1u(mobile)"></div>
+										<div class="3u 3u(mobile)">
+											<a href="http://www.ras.ru/"><img src="images/RAS.png" style="max-width:100%;"></img>
+												<p style="text-align:center;">Российская Академия Наук</p>
+											</a>
+										</div>
+										<div class="1u 1u(mobile)"></div>
+										<div class="3u 3u(mobile)">
+											<a href="http://fano.gov.ru/"><img src="images/fano.gif" style="max-width:100%;"></img>
+												<p style="text-align:center;">ФАНО России</p>
+											</a>
+										</div>
+									</div>
+								</div>
+							</section>
+
+						</div>
+						
+					</div>
+
+				</div>
+			</div>
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/skel-viewport.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+			<!-- Yandex.Metrika counter -->
+			<script type="text/javascript">
+			    (function (d, w, c) {
+				(w[c] = w[c] || []).push(function() {
+				    try {
+					w.yaCounter34780440 = new Ya.Metrika({
+					    id:34780440,
+					    clickmap:true,
+					    trackLinks:true,
+					    accurateTrackBounce:true
+					});
+				    } catch(e) { }
+				});
+
+				var n = d.getElementsByTagName("script")[0],
+				    s = d.createElement("script"),
+				    f = function () { n.parentNode.insertBefore(s, n); };
+				s.type = "text/javascript";
+				s.async = true;
+				s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+				if (w.opera == "[object Opera]") {
+				    d.addEventListener("DOMContentLoaded", f, false);
+				} else { f(); }
+			    })(document, window, "yandex_metrika_callbacks");
+			</script>
+			<noscript><div><img src="https://mc.yandex.ru/watch/34780440" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+			<!-- /Yandex.Metrika counter -->
+
+
+	</body>
+</html>
