@@ -1172,7 +1172,14 @@
 
 	ul.small-image-list li {
 		overflow: hidden;
-		margin-bottom: 1.5em;
+		margin-bottom: 1.0em;
+		margin-top: 0.5em;
+	}
+	ul.small-image-list p {
+		margin-top: 0.0em;
+	}
+	ul.small-image-list h4 {
+		margin-bottom: 0.25em;
 	}
 
 	ul.big-image-list li {
