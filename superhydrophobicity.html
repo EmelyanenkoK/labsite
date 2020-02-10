@@ -1,0 +1,176 @@
+<!DOCTYPE HTML>
+<!--
+	Minimaxing by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Лаборатория поверхностных сил</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/custom.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+	</head>
+	<body>
+		<div id="page-wrapper">
+			<div id="header-wrapper">
+				<div class="container">
+					<div class="row">
+						<div class="12u">
+
+							<header id="header">
+                                                                
+								<div id="enhanced_logo">
+                                                                  <img src="images/surf-force2.png"></img>
+                                                                  <h1><a href="#" id="logo">Лаборатория</a></h1>
+                                                                  <h2 style=""><a href="#" style="text-decoration: none; color:white; ">поверхностных сил</a></h2>
+                                                                <div>
+								<nav id="nav">
+									<a href="index.html">Главная</a>
+									<a href="research.html">Научная деятельность</a>
+									<a href="superhydrophobicity.html"  class="current-page-item">Супергидрофобность</a>
+									<a href="career.html">Работа</a>
+									<a href="asper.html">Аспирантура</a>
+									<a href="contacts.html">Контакты</a>
+								</nav>
+							</header>
+
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div id="main">
+				<div class="container">
+					<div class="row main-row">
+                                                <div class="12u 12u(mobile)"> 
+							<section>
+							Особое место среди направлений лаборатории в последнее десятилетие занимает исследование явления супергидрофобности. В лаборатории был разработан целый ряд методов создания супергидрофобных покрытий на различных материалах. На алюминии, меди и силоксановой резине были получены покрытия с параметрами превосходящими параметры покрытий всех мировых конкурирующих научных групп. Были созданы полифункциональные покрытия характеризующиеся повышенной коррозионной и абразивной стойкостью, свойствами антиобледенения и бактерицидным действием. Ниже доступен рубрикатор работ сделанных в лаборатории.
+							</section>
+                                                </div>
+             <div class="4u 12u(mobile)"> 
+							<h2>Рубрикатор</h2>
+							<section class="rubricator">
+								<input id="start-year" type="number" placeholder="2010" onchange="update_literature()"> - <input id="end-year" type="number" placeholder="2020" onchange="update_literature()">
+							</section>
+							<section class="rubricator">
+                <h4>Материал</h4> <div id="checkbox-helper1" class="helper"></div>
+								<div class="literature-checkbox1"><input type="checkbox" id="сталь" onclick="update_literature()"> Сталь/Нержавейка</div>
+								<div class="literature-checkbox1"><input type="checkbox" id="алюминий" onclick="update_literature()">Алюминий</div>
+								<div class="literature-checkbox1"><input type="checkbox" id="медь" onclick="update_literature()">Медь</div>
+								<div class="literature-checkbox1"><input type="checkbox" id="магний" onclick="update_literature()">Магний</div>
+								<div class="literature-checkbox1"><input type="checkbox" id="титан" onclick="update_literature()">Титан</div>
+								<div class="literature-checkbox1"><input type="checkbox" id="стекло" onclick="update_literature()">Стекло</div>
+								<div class="literature-checkbox1"><input type="checkbox" id="резина" onclick="update_literature()">Резина</div>
+								<div class="literature-checkbox1"><input type="checkbox" id="бор-нитридные нанотрубки" onclick="update_literature()">Борнитридные нанотрубки</div>
+							</section>
+							<section class="rubricator">
+                <h4>Топик</h4> <div id="checkbox-helper2"  class="helper"></div>
+								<div class="literature-checkbox2"><input type="checkbox" id="основы" onclick="update_literature()"> Обзор/теоретический анализ</div>
+								<div class="literature-checkbox2"><input type="checkbox" id="коррозия" onclick="update_literature()">Коррозия</div>
+								<div class="literature-checkbox2"><input type="checkbox" id="бактерицид" onclick="update_literature()">Бактерицидное действие</div>
+								<div class="literature-checkbox2"><input type="checkbox" id="долговечность" onclick="update_literature()">Долговечность</div>
+								<div class="literature-checkbox2"><input type="checkbox" id="антиобледенение" onclick="update_literature()">Антиобледенение</div>
+								<div class="literature-checkbox2"><input type="checkbox" id="электролиты" onclick="update_literature()">Растворы электролитов</div>
+								<div class="literature-checkbox2"><input type="checkbox" id="загрязнения" onclick="update_literature()">Влияние органических загрязнений в жидкости</div>
+							</section>  
+                                                </div>
+
+						<div class="8u 12u(mobile)">
+
+
+							<section>
+								<ul class="small-image-list" id="literature">
+								</ul>
+
+
+								</div>
+							</section>
+							</div>
+
+						</div>
+					</div>
+				</div>
+			</div>
+			<div id="footer-wrapper">
+				<div class="container">
+					<div class="row">
+						<div class="12u 12u(mobile)">
+
+							<section>
+								<div>
+									<div class="row">
+
+										<div class="1u 1u(mobile)"></div>
+										<div class="3u 3u(mobile)">
+											<a href="http://www.phyche.ac.ru/"><img src="images/IPCE.png" style="max-width:100%;text-align:center;"></img>
+												<p style="text-align:center;">Институт Физической Химии и Электрохимии РАН</p>
+											</a>
+										</div>
+										<div class="1u 1u(mobile)"></div>
+										<div class="3u 3u(mobile)">
+											<a href="http://www.ras.ru/"><img src="images/RAS.png" style="max-width:100%;"></img>
+												<p style="text-align:center;">Российская Академия Наук</p>
+											</a>
+										</div>
+										<div class="1u 1u(mobile)"></div>
+										<div class="3u 3u(mobile)">
+											<a href="https://www.minobrnauki.gov.ru/"><img src="images/minobr.png" style="max-width:100%;"></img>
+												<p style="text-align:center;">МинОбрНауки</p>
+											</a>
+										</div>
+									</div>
+								</div>
+							</section>
+
+						</div>
+						
+					</div>
+
+				</div>
+
+			</div>
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/skel-viewport.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+			<script src="assets/js/literature.js"></script>
+			<!-- Yandex.Metrika counter -->
+			<script type="text/javascript">
+			    (function (d, w, c) {
+				(w[c] = w[c] || []).push(function() {
+				    try {
+					w.yaCounter34780440 = new Ya.Metrika({
+					    id:34780440,
+					    clickmap:true,
+					    trackLinks:true,
+					    accurateTrackBounce:true
+					});
+				    } catch(e) { }
+				});
+
+				var n = d.getElementsByTagName("script")[0],
+				    s = d.createElement("script"),
+				    f = function () { n.parentNode.insertBefore(s, n); };
+				s.type = "text/javascript";
+				s.async = true;
+				s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+				if (w.opera == "[object Opera]") {
+				    d.addEventListener("DOMContentLoaded", f, false);
+				} else { f(); }
+			    })(document, window, "yandex_metrika_callbacks");
+			</script>
+			<noscript><div><img src="https://mc.yandex.ru/watch/34780440" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+			<!-- /Yandex.Metrika counter -->
+
+	</body>
+</html>

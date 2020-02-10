@@ -1,0 +1,23 @@
+.journal {
+  color: #333;
+  font-weight: 500;
+}
+.journal strong{
+  color: #000;
+  font-weight: 600;
+}
+
+.authors {
+  font-size: 16px;
+  line-height: normal;
+}
+
+.literature-checkbox1 {
+  display: inline-block;
+}
+.literature-checkbox2 {
+  display: inline-block;
+}
+.rubricator {
+  margin-bottom: 20px;
+}
