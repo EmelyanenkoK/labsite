@@ -1,29 +1,29 @@
 literature = [
   {
     "year": 2008,
-    "journal": "Nanotechnologies in Russia,\u00a03(9-10), 587-592.",
+    "journal": "Nanotechnologies in Russia, 3(9-10), 587-592.",
     "tags": [
-      "\u0440\u0435\u0437\u0438\u043d\u0430"
+      "резина"
     ],
-    "authors": "Boinovich, L. B., Emel\u2019yanenko, A. M., Muzafarov, A. M., Myshkovskii, A. M., Pashinin, A. S., Tsivadze, A. Y., & Yarova, D. I.",
-    "title": "The development of coatings that give superhydrophobic properties to the surface of silicone rubber.\u00a0",
+    "authors": "Boinovich, L. B., Emel’yanenko, A. M., Muzafarov, A. M., Myshkovskii, A. M., Pashinin, A. S., Tsivadze, A. Y., & Yarova, D. I.",
+    "title": "The development of coatings that give superhydrophobic properties to the surface of silicone rubber. ",
     "link": "https://link.springer.com/article/10.1134/S1995078008090085"
   },
   {
     "year": 2008,
-    "journal": "\u0423\u0441\u043f\u0435\u0445\u0438 \u0445\u0438\u043c\u0438\u0438,\u00a077(7), 619-638.",
+    "journal": "Успехи химии, 77(7), 619-638.",
     "tags": [
-      "\u043e\u0441\u043d\u043e\u0432\u044b"
+      "основы"
     ],
-    "authors": "\u0411\u043e\u0439\u043d\u043e\u0432\u0438\u0447, \u041b. \u0411., & \u0415\u043c\u0435\u043b\u044c\u044f\u043d\u0435\u043d\u043a\u043e, \u0410. \u041c.\u00a0",
-    "title": "\u0413\u0438\u0434\u0440\u043e\u0444\u043e\u0431\u043d\u044b\u0435 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b \u0438 \u043f\u043e\u043a\u0440\u044b\u0442\u0438\u044f: \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f, \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u0430 \u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435.",
+    "authors": "Бойнович, Л. Б., & Емельяненко, А. М. ",
+    "title": "Гидрофобные материалы и покрытия: принципы создания, свойства и применение.",
     "link": "https://www.researchgate.net/profile/Alexandre_Emelyanenko/publication/231069686_Hydrophobic_materials_and_coatings_Principles_of_design_properties_and_applications/links/565d609508aefe619b257d51/Hydrophobic-materials-and-coatings-Principles-of-design-properties-and-applications.pdf"
   },
   {
     "year": 2009,
-    "journal": "Langmuir\u00a025.5 (2009): 2907-2912.",
+    "journal": "Langmuir 25.5 (2009): 2907-2912.",
     "tags": [
-      "\u043e\u0441\u043d\u043e\u0432\u044b"
+      "основы"
     ],
     "authors": "Boinovich, Ludmila, and Alexandre Emelyanenko",
     "title": "Principles of design of superhydrophobic coatings by deposition from dispersions",
@@ -31,10 +31,10 @@ literature = [
   },
   {
     "year": 2010,
-    "journal": "ACS applied materials & interfaces\u00a02.6 (2010): 1754-1758.",
+    "journal": "ACS applied materials & interfaces 2.6 (2010): 1754-1758.",
     "tags": [
-      "\u0440\u0435\u0437\u0438\u043d\u0430",
-      "\u0434\u043e\u043b\u0433\u043e\u0432\u0435\u0447\u043d\u043e\u0441\u0442\u044c"
+      "резина",
+      "долговечность"
     ],
     "authors": "Boinovich, Ludmila, Alexandre M. Emelyanenko, and Andrei S. Pashinin.",
     "title": "Analysis of long-term durability of superhydrophobic properties under continuous contact with water.",
@@ -42,42 +42,42 @@ literature = [
   },
   {
     "year": 2010,
-    "journal": "\u00a0Protection of Metals and Physical Chemistry of Surfaces\u00a046, no. 6 (2010): 734-739.",
+    "journal": " Protection of Metals and Physical Chemistry of Surfaces 46, no. 6 (2010): 734-739.",
     "tags": [
-      "\u0442\u0435\u0444\u043b\u043e\u043d",
-      "\u0440\u0435\u0437\u0438\u043d\u0430"
+      "тефлон",
+      "резина"
     ],
-    "authors": "Pashinin, A. S., A. M. Emel\u2019yanenko, and L. B. Boinovich.\u00a0",
+    "authors": "Pashinin, A. S., A. M. Emel’yanenko, and L. B. Boinovich. ",
     "title": "Interaction between hydrophobic and superhydrophobic materials with aqueous media.",
     "link": "https://link.springer.com/article/10.1134/S2070205110060183"
   },
   {
     "year": 2011,
-    "journal": "Nanotechnologies in Russia,\u00a06(11-12), 723-732.",
+    "journal": "Nanotechnologies in Russia, 6(11-12), 723-732.",
     "tags": [
-      "\u0431\u043e\u0440-\u043d\u0438\u0442\u0440\u0438\u0434\u043d\u044b\u0435 \u043d\u0430\u043d\u043e\u0442\u0440\u0443\u0431\u043a\u0438",
+      "бор-нитридные нанотрубки",
       ""
     ],
-    "authors": "Aliev, A. D., Boinovich, L. B., Bukhovets, V. L., Emelyanenko, A. M., Gorbunov, A. M., Gorodetskii, A. E., & Pashinin, A. S.\u00a0",
-    "title": "Superhydrophobic coatings based on boron nitride nanotubes: The mechanism of superhydrophobicity and self-regeneration of highly hydrophobic properties.\u00a0",
+    "authors": "Aliev, A. D., Boinovich, L. B., Bukhovets, V. L., Emelyanenko, A. M., Gorbunov, A. M., Gorodetskii, A. E., & Pashinin, A. S. ",
+    "title": "Superhydrophobic coatings based on boron nitride nanotubes: The mechanism of superhydrophobicity and self-regeneration of highly hydrophobic properties. ",
     "link": "https://link.springer.com/article/10.1134/S1995078011060024"
   },
   {
     "year": 2011,
-    "journal": "Doklady Physical Chemistry\u00a0(Vol. 436, No. 2, pp. 19-22). SP MAIK Nauka/Interperiodica.",
+    "journal": "Doklady Physical Chemistry (Vol. 436, No. 2, pp. 19-22). SP MAIK Nauka/Interperiodica.",
     "tags": [
-      "\u0434\u043e\u043b\u0433\u043e\u0432\u0435\u0447\u043d\u043e\u0441\u0442\u044c"
+      "долговечность"
     ],
-    "authors": "Pashinin, A. S., Zolotarevskii, V. I., Kiselev, M. R., Emel\u2019yanenko, A. M., & Boinovich, L. B.\u00a0",
+    "authors": "Pashinin, A. S., Zolotarevskii, V. I., Kiselev, M. R., Emel’yanenko, A. M., & Boinovich, L. B. ",
     "title": "Thermal stability of superhydrophobic coatings.",
     "link": "https://link.springer.com/article/10.1134/S0012501611020023"
   },
   {
     "year": 2011,
-    "journal": "Colloids and Surfaces A: Physicochemical and Engineering Aspects\u00a0383, no. 1-3 (2011): 61-66.",
+    "journal": "Colloids and Surfaces A: Physicochemical and Engineering Aspects 383, no. 1-3 (2011): 61-66.",
     "tags": [
-      "\u0442\u0438\u0442\u0430\u043d",
-      "\u043a\u043e\u0440\u0440\u043e\u0437\u0438\u044f"
+      "титан",
+      "коррозия"
     ],
     "authors": "Gnedenkov, S. V., S. L. Sinebryukhov, V. S. Egorkin, D. V. Mashtalyar, D. A. Alpysbaeva, and L. B. Boinovich.",
     "title": "Wetting and electrochemical properties of hydrophobic and superhydrophobic coatings on titanium.",
@@ -85,7 +85,7 @@ literature = [
   },
   {
     "year": 2011,
-    "journal": "Advances in colloid and interface science,\u00a0165(2), 60-69.",
+    "journal": "Advances in colloid and interface science, 165(2), 60-69.",
     "tags": [
       "основы"
     ],
@@ -95,11 +95,11 @@ literature = [
   },
   {
     "year": 2012,
-    "journal": "Advances in colloid and interface science\u00a0179 (2012): 133-141.",
+    "journal": "Advances in colloid and interface science 179 (2012): 133-141.",
     "tags": [
-      "\u043e\u0441\u043d\u043e\u0432\u044b",
-      "\u0434\u043e\u043b\u0433\u043e\u0432\u0435\u0447\u043d\u043e\u0441\u0442\u044c",
-      "\u043a\u043e\u0440\u0440\u043e\u0437\u0438\u044f"
+      "основы",
+      "долговечность",
+      "коррозия"
     ],
     "authors": "Boinovich, Ludmila, and Alexandre Emelyanenko.",
     "title": "A wetting experiment as a tool to study the physicochemical processes accompanying the contact of hydrophobic and superhydrophobic materials with aqueous media",
@@ -107,10 +107,10 @@ literature = [
   },
   {
     "year": 2012,
-    "journal": "Corrosion science\u00a055 (2012): 238-245.",
+    "journal": "Corrosion science 55 (2012): 238-245.",
     "tags": [
-      "\u0441\u0442\u0430\u043b\u044c",
-      "\u043a\u043e\u0440\u0440\u043e\u0437\u0438\u044f"
+      "сталь",
+      "коррозия"
     ],
     "authors": "Boinovich, L. B., S. V. Gnedenkov, D. A. Alpysbaeva, V. S. Egorkin, A. M. Emelyanenko, S. L. Sinebryukhov, and A. K. Zaretskaya.",
     "title": "Corrosion resistance of composite coatings on low-carbon steel containing hydrophobic and superhydrophobic layers in combination with oxide sublayers.",
@@ -118,10 +118,10 @@ literature = [
   },
   {
     "year": 2012,
-    "journal": "Physics Procedia,\u00a023, 106-109.",
+    "journal": "Physics Procedia, 23, 106-109.",
     "tags": [
-      "\u0442\u0438\u0442\u0430\u043d",
-      "\u043a\u043e\u0440\u0440\u043e\u0437\u0438\u044f"
+      "титан",
+      "коррозия"
     ],
     "authors": "Egorkin, V. S., Boinovich, L. B., Sinebryukhov, S. L., & Gnedenkov, S. V.",
     "title": "Electrochemical properties of functional hybrid coatings on titanium.",
@@ -129,21 +129,21 @@ literature = [
   },
   {
     "year": 2012,
-    "journal": "Russian Journal of Electrochemistry\u00a048, no. 3 (2012): 336-345.",
+    "journal": "Russian Journal of Electrochemistry 48, no. 3 (2012): 336-345.",
     "tags": [
-      "\u0442\u0438\u0442\u0430\u043d",
-      "\u043a\u043e\u0440\u0440\u043e\u0437\u0438\u044f",
-      "\u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043b\u0438\u0442\u044b"
+      "титан",
+      "коррозия",
+      "электролиты"
     ],
-    "authors": "Gnedenkov, S. V., S. L. Sinebryukhov, V. S. Egorkin, D. V. Mashtalyar, A. M. Emel\u2019yanenko, D. A. Alpysbaeva, and L. B. Boinovich.\u00a0",
+    "authors": "Gnedenkov, S. V., S. L. Sinebryukhov, V. S. Egorkin, D. V. Mashtalyar, A. M. Emel’yanenko, D. A. Alpysbaeva, and L. B. Boinovich. ",
     "title": "Features of the occurrence of electrochemical processes in contact of sodium chloride solutions with the surface of superhydrophobic coatings on titanium.",
     "link": "http://www.academia.edu/download/31002907/RJEL336.pdf"
   },
   {
     "year": 2012,
-    "journal": "Langmuir\u00a028, no. 2 (2012): 1206-1216",
+    "journal": "Langmuir 28, no. 2 (2012): 1206-1216",
     "tags": [
-      "\u0431\u043e\u0440-\u043d\u0438\u0442\u0440\u0438\u0434\u043d\u044b\u0435 \u043d\u0430\u043d\u043e\u0442\u0440\u0443\u0431\u043a\u0438",
+      "бор-нитридные нанотрубки",
       ""
     ],
     "authors": "Boinovich, Ludmila B., Alexandre M. Emelyanenko, Andrei S. Pashinin, Chee Huei Lee, Jaroslaw Drelich, and Yoke Khin Yap.",
@@ -152,9 +152,9 @@ literature = [
   },
   {
     "year": 2012,
-    "journal": "Chemistry Letters,\u00a041(10), 1241-1243",
+    "journal": "Chemistry Letters, 41(10), 1241-1243",
     "tags": [
-      "\u043e\u0441\u043d\u043e\u0432\u044b"
+      "основы"
     ],
     "authors": "Boinovich, L., & Emelyanenko, A. M.",
     "title": "The Analysis of the Parameters of Three-phase Coexistence in the Course of Long-term Contact between a Superhydrophobic Surface and an Aqueous Medium.",
@@ -162,10 +162,10 @@ literature = [
   },
   {
     "year": 2013,
-    "journal": "Mendeleev Communications\u00a01.23 (2013): 3-10.",
+    "journal": "Mendeleev Communications 1.23 (2013): 3-10.",
     "tags": [
-      "\u0430\u043d\u0442\u0438\u043e\u0431\u043b\u0435\u0434\u0435\u043d\u0435\u043d\u0438\u0435",
-      "\u043e\u0431\u0437\u043e\u0440"
+      "антиобледенение",
+      "обзор"
     ],
     "authors": "Boinovich, L. B., & Emelyanenko, A. M.",
     "title": "Anti-icing potential of superhydrophobic coatings.",
@@ -173,65 +173,65 @@ literature = [
   },
   {
     "year": 2013,
-    "journal": "Russian Chemical Bulletin\u00a062, no. 2 (2013): 380-387.",
+    "journal": "Russian Chemical Bulletin 62, no. 2 (2013): 380-387.",
     "tags": [
-      "\u0430\u043d\u0442\u0438\u043e\u0431\u043b\u0435\u0434\u0435\u043d\u0435\u043d\u0438\u0435",
-      "\u0430\u043b\u044e\u043c\u0438\u043d\u0438\u0439",
-      "\u0441\u0442\u0430\u043b\u044c"
+      "антиобледенение",
+      "алюминий",
+      "сталь"
     ],
-    "authors": "Boinovich, L. B., A. G. Domantovskii, A. M. Emelyanenko, A. B. Miller, Yu F. Potapov, and A. N. Khodan.\u00a0",
+    "authors": "Boinovich, L. B., A. G. Domantovskii, A. M. Emelyanenko, A. B. Miller, Yu F. Potapov, and A. N. Khodan. ",
     "title": "Antiicing performance of superhydrophobic coatings on aluminum and stainless steel.",
     "link": "https://link.springer.com/article/10.1007/s11172-013-0049-6"
   },
   {
     "year": 2013,
-    "journal": "ACS applied materials & interfaces,\u00a05(7), 2549-2554.",
+    "journal": "ACS applied materials & interfaces, 5(7), 2549-2554.",
     "tags": [
-      "\u0430\u043d\u0442\u0438\u043e\u0431\u043b\u0435\u0434\u0435\u043d\u0435\u043d\u0438\u0435",
-      "\u0441\u0442\u0430\u043b\u044c"
+      "антиобледенение",
+      "сталь"
     ],
-    "authors": "Boinovich, L. B., Emelyanenko, A. M., Ivanov, V. K., & Pashinin, A. S.\u00a0",
+    "authors": "Boinovich, L. B., Emelyanenko, A. M., Ivanov, V. K., & Pashinin, A. S. ",
     "title": "Durable icephobic coating for stainless steel.",
     "link": "https://pubs.acs.org/doi/abs/10.1021/am3031272"
   },
   {
     "year": 2013,
-    "journal": "Surface and Coatings Technology\u00a0232 (2013): 240-246.",
+    "journal": "Surface and Coatings Technology 232 (2013): 240-246.",
     "tags": [
-      "\u043c\u0430\u0433\u043d\u0438\u0439",
-      "\u043a\u043e\u0440\u0440\u043e\u0437\u0438\u044f"
+      "магний",
+      "коррозия"
     ],
     "authors": "Gnedenkov, S. V., V. S. Egorkin, S. L. Sinebryukhov, I. E. Vyaliy, A. S. Pashinin, A. M. Emelyanenko, and L. B. Boinovich.",
-    "title": "Formation and electrochemical properties of the superhydrophobic nanocomposite coating on PEO pretreated Mg\u2013Mn\u2013Ce magnesium alloy.",
+    "title": "Formation and electrochemical properties of the superhydrophobic nanocomposite coating on PEO pretreated Mg–Mn–Ce magnesium alloy.",
     "link": "https://www.sciencedirect.com/science/article/pii/S0257897213004489"
   },
   {
     "year": 2013,
-    "journal": "Surface Innovations,\u00a01(3), 162-172.",
+    "journal": "Surface Innovations, 1(3), 162-172.",
     "tags": [
-      "\u043c\u0430\u0433\u043d\u0438\u0439",
-      "\u043a\u043e\u0440\u0440\u043e\u0437\u0438\u044f"
+      "магний",
+      "коррозия"
     ],
-    "authors": "Boinovich, L. B., Emelyanenko, A. M., Pashinin, A. S., Gnedenkov, S. V., Egorkin, V. S., & Sinebryukhov, S. L.\u00a0",
+    "authors": "Boinovich, L. B., Emelyanenko, A. M., Pashinin, A. S., Gnedenkov, S. V., Egorkin, V. S., & Sinebryukhov, S. L. ",
     "title": "Mg alloy treatment for superhydrophobic anticorrosion coating formation.",
     "link": "https://www.icevirtuallibrary.com/doi/abs/10.1680/si.13.00001"
   },
   {
     "year": 2013,
-    "journal": "Herald of the Russian Academy of Sciences,\u00a083(1), 8-18.",
+    "journal": "Herald of the Russian Academy of Sciences, 83(1), 8-18.",
     "tags": [
-      "\u043e\u0431\u0437\u043e\u0440"
+      "обзор"
     ],
-    "authors": "Boinovich, L. B.\u00a0",
+    "authors": "Boinovich, L. B. ",
     "title": "Superhydrophobic coatings as a new class of polyfunctional materials.",
     "link": "https://link.springer.com/article/10.1134/S1019331613010024"
   },
   {
     "year": 2014,
-    "journal": "Langmuir,\u00a030(6), 1659-1668.",
+    "journal": "Langmuir, 30(6), 1659-1668.",
     "tags": [
-      "\u0430\u043d\u0442\u0438\u043e\u0431\u043b\u0435\u0434\u0435\u043d\u0435\u043d\u0438\u0435",
-      "\u0430\u043b\u044e\u043c\u0438\u043d\u0438\u0439"
+      "антиобледенение",
+      "алюминий"
     ],
     "authors": "Boinovich, L., Emelyanenko, A. M., Korolev, V. V., & Pashinin, A. S.",
     "title": "Effect of wettability on sessile drop freezing: when superhydrophobicity stimulates an extreme freezing delay.",
@@ -239,23 +239,23 @@ literature = [
   },
   {
     "year": 2014,
-    "journal": "Journal of the Taiwan Institute of Chemical Engineers,\u00a045(6), 3075-3080.",
+    "journal": "Journal of the Taiwan Institute of Chemical Engineers, 45(6), 3075-3080.",
     "tags": [
-      "\u043a\u043e\u0440\u0440\u043e\u0437\u0438\u044f",
-      "\u043c\u0430\u0433\u043d\u0438\u0439",
-      "\u0442\u0438\u0442\u0430\u043d",
-      "\u0441\u0442\u0430\u043b\u044c"
+      "коррозия",
+      "магний",
+      "титан",
+      "сталь"
     ],
-    "authors": "Gnedenkov, S. V., Sinebryukhov, S. L., Egorkin, V. S., Mashtalyar, D. V., Emelyanenko, A. M., & Boinovich, L. B.\u00a0",
+    "authors": "Gnedenkov, S. V., Sinebryukhov, S. L., Egorkin, V. S., Mashtalyar, D. V., Emelyanenko, A. M., & Boinovich, L. B. ",
     "title": "Electrochemical properties of the superhydrophobic coatings on metals and alloys.",
     "link": "https://www.sciencedirect.com/science/article/pii/S1876107014002429"
   },
   {
     "year": 2014,
-    "journal": "ACS applied materials & interfaces,\u00a06(3), 2080-2085.",
+    "journal": "ACS applied materials & interfaces, 6(3), 2080-2085.",
     "tags": [
-      "\u0434\u043e\u043b\u0433\u043e\u0432\u0435\u0447\u043d\u043e\u0441\u0442\u044c",
-      "\u0441\u0442\u0435\u043a\u043b\u043e"
+      "долговечность",
+      "стекло"
     ],
     "authors": "Boinovich, L. B., Domantovskiy, A. G., Emelyanenko, A. M., Pashinin, A. S., Ionin, A. A., Kudryashov, S. I., & Saltuganov, P. N.",
     "title": "Femtosecond laser treatment for the design of electro-insulating superhydrophobic coatings with enhanced wear resistance on glass.",
@@ -265,39 +265,39 @@ literature = [
     "year": 2014,
     "journal": "Solid State Phenomena, vol. 213, pp. 176-179. Trans Tech Publications Ltd",
     "tags": [
-      "\u0434\u043e\u043b\u0433\u043e\u0432\u0435\u0447\u043d\u043e\u0441\u0442\u044c",
-      "\u043c\u0430\u0433\u043d\u0438\u0439"
+      "долговечность",
+      "магний"
     ],
-    "authors": "Gnedenkov, Sergey V., Sergey L. Sinebryukhov, Vladimir S. Egorkin, Igor E. Vyaliy, Alexandre M. Emelyanenko, and Lyudmila B. Boinovich.\u00a0",
+    "authors": "Gnedenkov, Sergey V., Sergey L. Sinebryukhov, Vladimir S. Egorkin, Igor E. Vyaliy, Alexandre M. Emelyanenko, and Lyudmila B. Boinovich. ",
     "title": "Protective properties of the nanocomposite coatings on Mg alloy.",
     "link": "https://www.scientific.net/ssp.213.176"
   },
   {
     "year": 2014,
-    "journal": "Langmuir,\u00a030(42), 12596-12601.",
+    "journal": "Langmuir, 30(42), 12596-12601.",
     "tags": [
-      "\u0430\u043d\u0442\u0438\u043e\u0431\u043b\u0435\u0434\u0435\u043d\u0435\u043d\u0438\u0435",
-      "\u0430\u043b\u044e\u043c\u0438\u043d\u0438\u0439"
+      "антиобледенение",
+      "алюминий"
     ],
-    "authors": "Boinovich, L., & Emelyanenko, A. M.\u00a0",
+    "authors": "Boinovich, L., & Emelyanenko, A. M. ",
     "title": "Role of water vapor desublimation in the adhesion of an iced droplet to a superhydrophobic surface.",
     "link": "https://pubs.acs.org/doi/abs/10.1021/la503447f"
   },
   {
     "year": 2014,
-    "journal": "Protection of Metals and Physical Chemistry of Surfaces,\u00a050(7), 898-902.",
+    "journal": "Protection of Metals and Physical Chemistry of Surfaces, 50(7), 898-902.",
     "tags": [
-      "\u0441\u0442\u0430\u043b\u044c"
+      "сталь"
     ],
-    "authors": "Alpysbaeva, D. A., Vershok, D. B., Emel\u2019yanenko, A. M., Batishchev, O. V., Kuznetsov, Y. I., & Boinovich, L. B.",
-    "title": "Superhydrophobization of low-carbon steel with conversion coatings.\u00a0",
+    "authors": "Alpysbaeva, D. A., Vershok, D. B., Emel’yanenko, A. M., Batishchev, O. V., Kuznetsov, Y. I., & Boinovich, L. B.",
+    "title": "Superhydrophobization of low-carbon steel with conversion coatings. ",
     "link": "https://link.springer.com/article/10.1134/S207020511407003X"
   },
   {
     "year": 2015,
-    "journal": "In\u00a0Doklady Chemistry, vol. 462, no. 2, pp. 156-159. Pleiades Publishing, 2015.",
+    "journal": "In Doklady Chemistry, vol. 462, no. 2, pp. 156-159. Pleiades Publishing, 2015.",
     "tags": [
-      "\u0442\u0435\u0444\u043b\u043e\u043d"
+      "тефлон"
     ],
     "authors": "Boinovich, L. B., V. M. Bouznik, P. N. Grakovich, V. I. Gryaznov, A. S. Pashinin, and G. Yu Yurkov.",
     "title": "Creation and modification of superhydrophobic materials based on fibrous polytetrafluoroethylene.",
@@ -305,21 +305,21 @@ literature = [
   },
   {
     "year": 2015,
-    "journal": "The Journal of Physical Chemistry C,\u00a0119(16), 8718-8724.",
+    "journal": "The Journal of Physical Chemistry C, 119(16), 8718-8724.",
     "tags": [
-      "\u0430\u043d\u0442\u0438\u043e\u0431\u043b\u0435\u0434\u0435\u043d\u0435\u043d\u0438\u0435",
-      "\u0437\u0430\u0433\u0440\u044f\u0437\u043d\u0435\u043d\u0438\u0435"
+      "антиобледенение",
+      "загрязнение"
     ],
-    "authors": "Boinovich, L. B., Emelyanenko, A. M., & Emelyanenko, K. A.\u00a0",
+    "authors": "Boinovich, L. B., Emelyanenko, A. M., & Emelyanenko, K. A. ",
     "title": "Effect of decanol vapors on the delay in water droplet crystallization on superhydrophobic substrates.",
     "link": "https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b00990"
   },
   {
     "year": 2015,
-    "journal": "Applied Surface Science\u00a0332 (2015): 513-517",
+    "journal": "Applied Surface Science 332 (2015): 513-517",
     "tags": [
-      "\u0434\u043e\u043b\u0433\u043e\u0432\u0435\u0447\u043d\u043e\u0441\u0442\u044c",
-      "\u0441\u0442\u0430\u043b\u044c"
+      "долговечность",
+      "сталь"
     ],
     "authors": "Emelyanenko, Alexandre M., Farida M. Shagieva, Alexandr G. Domantovsky, and Ludmila B. Boinovich.",
     "title": "Nanosecond laser micro-and nanotexturing for the design of a superhydrophobic coating robust against long-term contact with water, cavitation, and abrasion.",
@@ -327,10 +327,10 @@ literature = [
   },
   {
     "year": 2015,
-    "journal": "ACS applied materials & interfaces,\u00a07(34), 19500-19508",
+    "journal": "ACS applied materials & interfaces, 7(34), 19500-19508",
     "tags": [
-      "\u043a\u043e\u0440\u0440\u043e\u0437\u0438\u044f",
-      "\u0430\u043b\u044e\u043c\u0438\u043d\u0438\u0439"
+      "коррозия",
+      "алюминий"
     ],
     "authors": "Boinovich, L. B., Emelyanenko, A. M., Modestov, A. D., Domantovsky, A. G., & Emelyanenko, K. A.",
     "title": "Synergistic effect of superhydrophobicity and oxidized layers on corrosion resistance of aluminum alloy surface textured by nanosecond laser treatment.",
@@ -338,12 +338,12 @@ literature = [
   },
   {
     "year": 2015,
-    "journal": "Nanotechnologies in Russia,\u00a010(7-8), 585-592.",
+    "journal": "Nanotechnologies in Russia, 10(7-8), 585-592.",
     "tags": [
-      "\u0441\u0442\u0430\u043b\u044c",
-      "\u0434\u043e\u043b\u0433\u043e\u0432\u0435\u0447\u043d\u043e\u0441\u0442\u044c"
+      "сталь",
+      "долговечность"
     ],
-    "authors": "Emelyanenko, A. M., Domantovsky, A. G., Emelyanenko, K. A., & Boinovich, L. B.\u00a0",
+    "authors": "Emelyanenko, A. M., Domantovsky, A. G., Emelyanenko, K. A., & Boinovich, L. B. ",
     "title": "Synthesis of wear-resistant superhydrophobic coatings via laser micro-and nanotexturing",
     "link": "https://link.springer.com/article/10.1134/S1995078015040047"
   },
@@ -351,20 +351,20 @@ literature = [
     "year": 2015,
     "journal": "Colloids and Surfaces A: Physicochemical and Engineering Aspects481 (2015): 167-175.",
     "tags": [
-      "\u0434\u043e\u043b\u0433\u043e\u0432\u0435\u0447\u043d\u043e\u0441\u0442\u044c",
-      "\u0430\u043b\u044e\u043c\u0438\u043d\u0438\u0439"
+      "долговечность",
+      "алюминий"
     ],
-    "authors": "Boinovich, L. B., and A. M. Emelyanenko.\u00a0",
+    "authors": "Boinovich, L. B., and A. M. Emelyanenko. ",
     "title": "The behaviour of fluoro-and hydrocarbon surfactants used for fabrication of superhydrophobic coatings at solid/water interface.",
     "link": "https://www.sciencedirect.com/science/article/pii/S0927775715004045"
   },
   {
     "year": 2016,
-    "journal": "Physical Chemistry Chemical Physics\u00a018, no. 4 (2016): 3131-3136.",
+    "journal": "Physical Chemistry Chemical Physics 18, no. 4 (2016): 3131-3136.",
     "tags": [
-      "\u0430\u043d\u0442\u0438\u043e\u0431\u043b\u0435\u0434\u0435\u043d\u0435\u043d\u0438\u0435",
-      "\u0430\u043b\u044e\u043c\u0438\u043d\u0438\u0439",
-      "\u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043b\u0438\u0442\u044b"
+      "антиобледенение",
+      "алюминий",
+      "электролиты"
     ],
     "authors": "Boinovich, Ludmila B., Alexandre M. Emelyanenko, Kirill A. Emelyanenko, and Konstantin I. Maslakov",
     "title": "Anti-icing properties of a superhydrophobic surface in a salt environment: an unexpected increase in freezing delay times for weak brine droplets.",
@@ -372,55 +372,55 @@ literature = [
   },
   {
     "year": 2016,
-    "journal": "Russian Chemical Bulletin,\u00a065(11), 2607-2611.",
+    "journal": "Russian Chemical Bulletin, 65(11), 2607-2611.",
     "tags": [
-      "\u043a\u043e\u0440\u0440\u043e\u0437\u0438\u044f",
-      "\u0430\u043b\u044e\u043c\u0438\u043d\u0438\u0439"
+      "коррозия",
+      "алюминий"
     ],
     "authors": "Modestov, A. D., Emelyanenko, K. A., Emelyanenko, A. M., Domantovsky, A. G., & Boinovich, L. B",
-    "title": "Application of laser micro-and nanotexturing for the fabrication of superhydrophobic corrosion-resistant coatings on aluminum.\u00a0",
+    "title": "Application of laser micro-and nanotexturing for the fabrication of superhydrophobic corrosion-resistant coatings on aluminum. ",
     "link": "https://link.springer.com/article/10.1007/s11172-016-1625-3"
   },
   {
     "year": 2016,
-    "journal": "Applied Surface Science,\u00a0379, 111-113.",
+    "journal": "Applied Surface Science, 379, 111-113.",
     "tags": [
       ""
     ],
     "authors": "Boinovich, L. B., Emelyanenko, A. M., Emelyanenko, K. A., Domantovsky, A. G., & Shiryaev, A. A.",
-    "title": "Comment on \u201cNanosecond laser textured superhydrophobic metallic surfaces and their chemical sensing applications\u201d by Duong V. Ta, Andrew Dunn, Thomas J. Wasley, Robert W. Kay, Jonathan Stringer, Patrick J. Smith, Colm Connaughton, Jonathan D. Shephard (Appl. Surf. Sci. 357 (2015) 248\u2013254).\u00a0",
+    "title": "Comment on “Nanosecond laser textured superhydrophobic metallic surfaces and their chemical sensing applications” by Duong V. Ta, Andrew Dunn, Thomas J. Wasley, Robert W. Kay, Jonathan Stringer, Patrick J. Smith, Colm Connaughton, Jonathan D. Shephard (Appl. Surf. Sci. 357 (2015) 248–254). ",
     "link": "https://www.sciencedirect.com/science/article/pii/S0169433216307978"
   },
   {
     "year": 2016,
-    "journal": "Corrosion Science,\u00a0112, 517-527.",
+    "journal": "Corrosion Science, 112, 517-527.",
     "tags": [
-      "\u043a\u043e\u0440\u0440\u043e\u0437\u0438\u044f",
-      "\u0430\u043b\u044e\u043c\u0438\u043d\u0438\u0439",
-      "\u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043b\u0438\u0442\u044b"
+      "коррозия",
+      "алюминий",
+      "электролиты"
     ],
     "authors": "Boinovich, L. B., Emelyanenko, A. M., Modestov, A. D., Domantovsky, A. G., Shiryaev, A. A., Emelyanenko, K. A., ... & Ganne, A. A.",
-    "title": "Corrosion behavior of superhydrophobic aluminum alloy in concentrated potassium halide solutions: when the specific anion effect is manifested.\u00a0",
+    "title": "Corrosion behavior of superhydrophobic aluminum alloy in concentrated potassium halide solutions: when the specific anion effect is manifested. ",
     "link": "https://www.sciencedirect.com/science/article/pii/S0010938X16306400"
   },
   {
     "year": 2016,
-    "journal": "Journal of The Electrochemical Society,\u00a0163(10), C659-C665.",
+    "journal": "Journal of The Electrochemical Society, 163(10), C659-C665.",
     "tags": [
-      "\u043a\u043e\u0440\u0440\u043e\u0437\u0438\u044f",
-      "\u0430\u043b\u044e\u043c\u0438\u043d\u0438\u0439",
-      "\u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043b\u0438\u0442\u044b"
+      "коррозия",
+      "алюминий",
+      "электролиты"
     ],
     "authors": "Emelyanenko, A. M., Boinovich, L. B., Modestov, A. D., Domantovsky, A. G., Emelyanenko, K. A., & Dvoretskaya, O. V",
-    "title": "Corrosion behavior of superhydrophobic coatings on aluminum-magnesium alloy in potassium iodide solutions.\u00a0",
+    "title": "Corrosion behavior of superhydrophobic coatings on aluminum-magnesium alloy in potassium iodide solutions. ",
     "link": "http://jes.ecsdl.org/content/163/10/C659.short"
   },
   {
     "year": 2017,
-    "journal": "Surface Innovations,\u00a05(3), 154-160.",
+    "journal": "Surface Innovations, 5(3), 154-160.",
     "tags": [
-      "\u0430\u043d\u0442\u0438\u043e\u0431\u043b\u0435\u0434\u0435\u043d\u0435\u043d\u0438\u0435",
-      "\u0441\u0442\u0430\u043b\u044c"
+      "антиобледенение",
+      "сталь"
     ],
     "authors": "Ganne, A., Maslakov, K. I., & Gavrilov, A. I.",
     "title": "Anti-icing properties of superhydrophobic stainless steel mesh at subzero temperatures.",
@@ -428,22 +428,22 @@ literature = [
   },
   {
     "year": 2017,
-    "journal": "ACS nano,\u00a011(10), 10113-10123",
+    "journal": "ACS nano, 11(10), 10113-10123",
     "tags": [
-      "\u0430\u043b\u044e\u043c\u0438\u043d\u0438\u0439",
-      "\u0434\u043e\u043b\u0433\u043e\u0432\u0435\u0447\u043d\u043e\u0441\u0442\u044c",
-      "\u043a\u043e\u0440\u0440\u043e\u0437\u0438\u044f"
+      "алюминий",
+      "долговечность",
+      "коррозия"
     ],
-    "authors": "Boinovich, L. B., Modin, E. B., Sayfutdinova, A. R., Emelyanenko, K. A., Vasiliev, A. L., & Emelyanenko, A. M.\u00a0",
-    "title": "Combination of functional nanoengineering and nanosecond laser texturing for design of superhydrophobic aluminum alloy with exceptional mechanical and chemical properties.\u00a0",
+    "authors": "Boinovich, L. B., Modin, E. B., Sayfutdinova, A. R., Emelyanenko, K. A., Vasiliev, A. L., & Emelyanenko, A. M. ",
+    "title": "Combination of functional nanoengineering and nanosecond laser texturing for design of superhydrophobic aluminum alloy with exceptional mechanical and chemical properties. ",
     "link": "https://pubs.acs.org/doi/abs/10.1021/acsnano.7b04634"
   },
   {
     "year": 2017,
-    "journal": "ACS applied materials & interfaces,\u00a09(28), 24210-24219.",
+    "journal": "ACS applied materials & interfaces, 9(28), 24210-24219.",
     "tags": [
-      "\u0434\u043e\u043b\u0433\u043e\u0432\u0435\u0447\u043d\u043e\u0441\u0442\u044c",
-      "\u0440\u0435\u0437\u0438\u043d\u0430"
+      "долговечность",
+      "резина"
     ],
     "authors": "Emelyanenko, A. M., Boinovich, L. B., Bezdomnikov, A. A., Chulkova, E. V., & Emelyanenko, K. A.",
     "title": "Reinforced superhydrophobic coating on silicone rubber for longstanding anti-icing performance in severe conditions.",
@@ -451,9 +451,9 @@ literature = [
   },
   {
     "year": 2018,
-    "journal": "Colloids and Surfaces A: Physicochemical and Engineering Aspects\u00a0537 (2018): 76-84.",
+    "journal": "Colloids and Surfaces A: Physicochemical and Engineering Aspects 537 (2018): 76-84.",
     "tags": [
-      "\u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043b\u0438\u0442\u044b"
+      "электролиты"
     ],
     "authors": "Boinovich, Ludmila B., Vladimir D. Sobolev, Konstantin I. Maslakov, Alexandr G. Domantovsky, Inessa P. Sergeeva, and Alexandre M. Emelyanenko.",
     "title": "Cation capture and overcharging of a hydrophobized quartz surface in concentrated potassium chloride solutions.",
@@ -465,49 +465,49 @@ literature = [
     "tags": [
       ""
     ],
-    "authors": "Ludmila Boinovich, \u00a0Alexandre Emelyanenko",
+    "authors": "Ludmila Boinovich,  Alexandre Emelyanenko",
     "title": "Characterizing the Physicochemical Processes at the Interface through Evolution of the Axisymmetric Droplet Shape Parameters",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/9781119459996.ch4"
   },
   {
     "year": 2018,
-    "journal": "Russian Journal of Physical Chemistry A\u00a092, no. 1 (2018): 178-184.",
+    "journal": "Russian Journal of Physical Chemistry A 92, no. 1 (2018): 178-184.",
     "tags": [
-      "\u0430\u043d\u0442\u0438\u043e\u0431\u043b\u0435\u0434\u0435\u043d\u0435\u043d\u0438\u0435",
-      "\u0440\u0435\u0437\u0438\u043d\u0430"
+      "антиобледенение",
+      "резина"
     ],
-    "authors": "Bezdomnikov, A. A., A. M. Emel\u2019yanenko, K. A. Emel\u2019yanenko, and L. B. Boinovich.",
+    "authors": "Bezdomnikov, A. A., A. M. Emel’yanenko, K. A. Emel’yanenko, and L. B. Boinovich.",
     "title": "Delay in the Freezing of Supercooled Water Drops on Superhydrophobic Surfaces of Silicone Rubber at Negative Temperatures.",
     "link": "https://link.springer.com/article/10.1134/S0036024418010077"
   },
   {
     "year": 2018,
-    "journal": "ACS Applied Nano Materials\u00a01, no. 3 (2018): 1348-1359.",
+    "journal": "ACS Applied Nano Materials 1, no. 3 (2018): 1348-1359.",
     "tags": [
-      "\u0431\u0430\u043a\u0442\u0435\u0440\u0438\u0446\u0438\u0434",
-      "\u0430\u043b\u044e\u043c\u0438\u043d\u0438\u0439"
+      "бактерицид",
+      "алюминий"
     ],
-    "authors": "Boinovich, Ludmila B., Evgeny B. Modin, Andrey V. Aleshkin, Kirill A. Emelyanenko, Eldar R. Zulkarneev, Irina A. Kiseleva, Alexander L. Vasiliev, and Alexandre M. Emelyanenko.\u00a0",
+    "authors": "Boinovich, Ludmila B., Evgeny B. Modin, Andrey V. Aleshkin, Kirill A. Emelyanenko, Eldar R. Zulkarneev, Irina A. Kiseleva, Alexander L. Vasiliev, and Alexandre M. Emelyanenko. ",
     "title": "Effective antibacterial nanotextured surfaces based on extreme wettability and bacteriophage seeding.",
     "link": "https://pubs.acs.org/doi/abs/10.1021/acsanm.8b00090"
   },
   {
     "year": 2018,
-    "journal": "\u00a0Bulletin of experimental biology and medicine\u00a0165, no. 4 (2018): 478-481.",
+    "journal": " Bulletin of experimental biology and medicine 165, no. 4 (2018): 478-481.",
     "tags": [
-      "\u0431\u0430\u043a\u0442\u0435\u0440\u0438\u0446\u0438\u0434",
-      "\u0430\u043b\u044e\u043c\u0438\u043d\u0438\u0439"
+      "бактерицид",
+      "алюминий"
     ],
-    "authors": "Aleshkin, A. V., E. R. Zulkarneev, I. A. Kiseleva, K. A. Emelyanenko, A. M. Emelyanenko, and L. B. Boinovich.\u00a0",
+    "authors": "Aleshkin, A. V., E. R. Zulkarneev, I. A. Kiseleva, K. A. Emelyanenko, A. M. Emelyanenko, and L. B. Boinovich. ",
     "title": "Experimental Application of Organic-Inorganic Hybrid Coatings with Adsorbed Bacteriophages for Reducing the Risk of STEC Infections.",
     "link": "https://link.springer.com/article/10.1007/s10517-018-4198-3"
   },
   {
     "year": 2018,
-    "journal": "\u00a0Physicochemical Problems of Mineral Processing\u00a054",
+    "journal": " Physicochemical Problems of Mineral Processing 54",
     "tags": [
-      "\u0437\u0430\u0433\u0440\u044f\u0437\u043d\u0435\u043d\u0438\u0435",
-      "\u0430\u043b\u044e\u043c\u0438\u043d\u0438\u0439"
+      "загрязнение",
+      "алюминий"
     ],
     "authors": "Sayfutdinova, Adeliya R., Alexandre M. Emelyanenko, and Ludmila B. Boinovich.",
     "title": "Influence of dodecanol on wetting behavior of superhydrophobic surfaces",
@@ -515,11 +515,11 @@ literature = [
   },
   {
     "year": 2018,
-    "journal": "\u00a0Langmuir,\u00a034(24), 7059-7066.",
+    "journal": " Langmuir, 34(24), 7059-7066.",
     "tags": [
-      "\u0430\u043b\u044e\u043c\u0438\u043d\u0438\u0439",
-      "\u0434\u043e\u043b\u0433\u043e\u0432\u0435\u0447\u043d\u043e\u0441\u0442\u044c",
-      "\u043a\u043e\u0440\u0440\u043e\u0437\u0438\u044f"
+      "алюминий",
+      "долговечность",
+      "коррозия"
     ],
     "authors": "Boinovich, L. B., Emelyanenko, K. A., Domantovsky, A. G., & Emelyanenko, A. M.",
     "title": "Laser tailoring the surface chemistry and morphology for wear, scale and corrosion resistant superhydrophobic coatings",
@@ -527,33 +527,33 @@ literature = [
   },
   {
     "year": 2018,
-    "journal": "Advanced Materials Interfaces,\u00a05(21), 1801099.",
+    "journal": "Advanced Materials Interfaces, 5(21), 1801099.",
     "tags": [
-      "\u043c\u0435\u0434\u044c",
-      "\u043a\u043e\u0440\u0440\u043e\u0437\u0438\u044f",
-      "\u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043b\u0438\u0442\u044b"
+      "медь",
+      "коррозия",
+      "электролиты"
     ],
-    "authors": "Boinovich, L. B., Emelyanenko, K. A., Domantovsky, A. G., Chulkova, E. V., Shiryaev, A. A., & Emelyanenko, A. M.\u00a0",
+    "authors": "Boinovich, L. B., Emelyanenko, K. A., Domantovsky, A. G., Chulkova, E. V., Shiryaev, A. A., & Emelyanenko, A. M. ",
     "title": "Pulsed Laser Induced Triple Layer Copper Oxide Structure for Durable Polyfunctionality of Superhydrophobic Coatings.",
     "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/admi.201801099"
   },
   {
     "year": 2018,
-    "journal": "Materials Research Express,\u00a05(11), 115001.",
+    "journal": "Materials Research Express, 5(11), 115001.",
     "tags": [
-      "\u043c\u0435\u0434\u044c",
-      "\u043a\u043e\u0440\u0440\u043e\u0437\u0438\u044f"
+      "медь",
+      "коррозия"
     ],
-    "authors": "Emelyanenko, K. A., Sanzharovsky, N. A., Chulkova, E. V., Ganne, A. A., Emelyanenko, A. M., & Boinovich, L. B.\u00a0",
-    "title": "Superhydrophobic corrosion resistant coatings for copper via IR nanosecond laser processing.\u00a0",
+    "authors": "Emelyanenko, K. A., Sanzharovsky, N. A., Chulkova, E. V., Ganne, A. A., Emelyanenko, A. M., & Boinovich, L. B. ",
+    "title": "Superhydrophobic corrosion resistant coatings for copper via IR nanosecond laser processing. ",
     "link": "https://iopscience.iop.org/article/10.1088/2053-1591/aadc16/meta"
   },
   {
     "year": 2019,
-    "journal": "Langmuir,\u00a035(7), 2832-2841.",
+    "journal": "Langmuir, 35(7), 2832-2841.",
     "tags": [
-      "\u0431\u0430\u043a\u0442\u0435\u0440\u0438\u0446\u0438\u0434",
-      "\u043c\u0435\u0434\u044c"
+      "бактерицид",
+      "медь"
     ],
     "authors": "Boinovich, L. B., Kaminsky, V. V., Domantovsky, A. G., Emelyanenko, K. A., Aleshkin, A. V., Zulkarneev, E. R., ... & Emelyanenko, A. M.",
     "title": "Bactericidal Activity of Superhydrophobic and Superhydrophilic Copper in Bacterial Dispersions.",
@@ -561,23 +561,23 @@ literature = [
   },
   {
     "year": 2019,
-    "journal": "Bulletin of experimental biology and medicine\u00a0167, no. 4 (2019): 500-503.",
+    "journal": "Bulletin of experimental biology and medicine 167, no. 4 (2019): 500-503.",
     "tags": [
-      "\u0431\u0430\u043a\u0442\u0435\u0440\u0438\u0446\u0438\u0434",
-      "\u0430\u043b\u044e\u043c\u0438\u043d\u0438\u0439"
+      "бактерицид",
+      "алюминий"
     ],
-    "authors": "Kaminskii, V. V., A. V. Aleshkin, E. R. Zul\u2019karneev, A. M. Zatevalov, I. A. Kiseleva, O. G. Efimova, K. A. Emelyanenko, A. M. Emelyanenko, and L. B. Boinovich.",
+    "authors": "Kaminskii, V. V., A. V. Aleshkin, E. R. Zul’karneev, A. M. Zatevalov, I. A. Kiseleva, O. G. Efimova, K. A. Emelyanenko, A. M. Emelyanenko, and L. B. Boinovich.",
     "title": "Development of a Bacteriophage Complex with Superhydrophilic and Superhydrophobic Nanotextured Surfaces of Metals Preventing Healthcare-Associated Infections (HAI).",
     "link": "https://link.springer.com/article/10.1007/s10517-019-04559-0"
   },
   {
     "year": 2019,
-    "journal": "ACS nano\u00a013, no. 4 (2019): 4335-4346.",
+    "journal": "ACS nano 13, no. 4 (2019): 4335-4346.",
     "tags": [
-      "\u0430\u043b\u044e\u043c\u0438\u043d\u0438\u0439",
-      "\u0434\u043e\u043b\u0433\u043e\u0432\u0435\u0447\u043d\u043e\u0441\u0442\u044c",
-      "\u043a\u043e\u0440\u0440\u043e\u0437\u0438\u044f",
-      "\u0430\u043d\u0442\u0438\u043e\u0431\u043b\u0435\u0434\u0435\u043d\u0435\u043d\u0438\u0435"
+      "алюминий",
+      "долговечность",
+      "коррозия",
+      "антиобледенение"
     ],
     "authors": "Boinovich, Ludmila B., Alexandre M. Emelyanenko, Kirill A. Emelyanenko, and Evgeny B. Modin.",
     "title": "Modus operandi of protective and anti-icing mechanisms underlying the design of longstanding outdoor icephobic coatings.",
@@ -585,11 +585,11 @@ literature = [
   },
   {
     "year": 2020,
-    "journal": "Colloids and Surfaces B: Biointerfaces\u00a0185 (2020): 110622.",
+    "journal": "Colloids and Surfaces B: Biointerfaces 185 (2020): 110622.",
     "tags": [
-      "\u0431\u0430\u043a\u0442\u0435\u0440\u0438\u0446\u0438\u0434",
-      "\u043c\u0435\u0434\u044c",
-      "\u043a\u043e\u0440\u0440\u043e\u0437\u0438\u044f"
+      "бактерицид",
+      "медь",
+      "коррозия"
     ],
     "authors": "Emelyanenko, Alexandre M., Ivan S. Pytskii, Valery V. Kaminsky, Elizaveta V. Chulkova, Alexander G. Domantovsky, Kirill A. Emelyanenko, Vladimir D. Sobolev, Andrey V. Aleshkin, and Ludmila B. Boinovich.",
     "title": "Superhydrophobic copper in biological liquids: Antibacterial activity and microbiologically induced or inhibited corrosion.",
@@ -644,6 +644,64 @@ function fill_literature() {
   place.innerHTML=s;
 }
 
+function update_chart() {
+  var suitable_literature = select_literature();
+  var b = {}, i=0;
+  console.log(b);
+  for(e of suitable_literature) {
+    y = e["year"];
+    if(b[y]==undefined) {
+      b[y]=0;
+    }
+    b[y] += 1;
+    i+=1;
+  }
+  var ctx = document.getElementById("canvas");
+  if(i>6) {
+    ctx.style.display="block";
+		var barChartData = {
+			labels: Object.keys(b),
+			datasets: [{
+				backgroundColor: "#00008890",
+				borderColor: "#000088cc",
+				borderWidth: 1,
+				data: Object.values(b)
+			},]
+
+		};
+                if(window.myBar==undefined) {
+    			window.myBar = new Chart(ctx, {
+				type: 'bar',
+				data: barChartData,
+				options: {
+					responsive: true,
+					title: {
+						display: false,
+					},
+					legend: {
+						display: false,
+					},
+    scales: {
+        yAxes: [{
+            display: true,
+            ticks: {
+                beginAtZero: true,
+                min: 0
+            }
+        }]
+    },
+				}
+			});
+                } else {
+                  window.myBar.data = barChartData;
+                  window.myBar.update();
+                }
+  } else {
+
+    ctx.style.display="none";
+  }
+}
+
 function update_literature() {
   var start_year = $("#start-year")[0].value;
   var end_year = $("#end-year")[0].value;
@@ -667,6 +725,7 @@ function update_literature() {
   if(!(JSON.stringify(new_filters) == JSON.stringify(filters))) {
     window.filters = new_filters;
     fill_literature();
+    update_chart();
     if(materials.length <1) {
       $("#checkbox-helper1")[0].innerHTML = "материал не выбран, показаны все";
     } else {
@@ -678,7 +737,7 @@ function update_literature() {
       $("#checkbox-helper2")[0].innerHTML = "топик не выбран, показаны все";
     }
   }
-  fill_literature();
 }
+
 
 update_literature();

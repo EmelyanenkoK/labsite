@@ -10,7 +10,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/main.css?2" />
 		<link rel="stylesheet" href="assets/css/custom.css" />
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 	</head>
@@ -75,10 +75,13 @@
 								<div class="literature-checkbox2"><input type="checkbox" id="долговечность" onclick="update_literature()">Долговечность</div>
 								<div class="literature-checkbox2"><input type="checkbox" id="антиобледенение" onclick="update_literature()">Антиобледенение</div>
 								<div class="literature-checkbox2"><input type="checkbox" id="электролиты" onclick="update_literature()">Растворы электролитов</div>
-								<div class="literature-checkbox2"><input type="checkbox" id="загрязнения" onclick="update_literature()">Влияние органических загрязнений в жидкости</div>
+								<div class="literature-checkbox2"><input type="checkbox" id="загрязнение" onclick="update_literature()">Влияние ПАВ на смачивание</div>
 							</section>  
-                                                </div>
+              <section>
+                <canvas id="canvas" style="display:none;"></canvas>
+              </section>
 
+            </div>
 						<div class="8u 12u(mobile)">
 
 
@@ -142,6 +145,7 @@
 			<script src="assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script>
 			<script src="assets/js/literature.js"></script>
 			<!-- Yandex.Metrika counter -->
 			<script type="text/javascript">
