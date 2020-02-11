@@ -420,7 +420,8 @@ literature = [
     "journal": "Surface Innovations, 5(3), 154-160.",
     "tags": [
       "антиобледенение",
-      "сталь"
+      "сталь",
+      "сетки"
     ],
     "authors": "Ganne, A., Maslakov, K. I., & Gavrilov, A. I.",
     "title": "Anti-icing properties of superhydrophobic stainless steel mesh at subzero temperatures.",
@@ -561,6 +562,17 @@ literature = [
   },
   {
     "year": 2019,
+    "journal": "Доклады Академии наук, 489(5)",
+    "tags": [
+      "сбор воды",
+      "сталь"
+    ],
+    "authors": "Емельяненко К.А., Мельников С.Н., Прошин П.И., Домантовский А.Г., Емельяненко А.М., Бойнович Л.Б.",
+    "title": "Текстурированные материалы с экстремальным смачиванием для сбора воды из аэрозолей",
+    "link": "https://journals.eco-vector.com/0869-5652/article/view/18842"
+  },
+  {
+    "year": 2019,
     "journal": "Bulletin of experimental biology and medicine 167, no. 4 (2019): 500-503.",
     "tags": [
       "бактерицид",
@@ -625,7 +637,6 @@ function select_literature() {
     }
     ret.push(e);
   }
-  console.log(ret.length, filters)
   return ret;
 }
 
@@ -647,7 +658,6 @@ function fill_literature() {
 function update_chart() {
   var suitable_literature = select_literature();
   var b = {}, i=0;
-  console.log(b);
   for(e of suitable_literature) {
     y = e["year"];
     if(b[y]==undefined) {
