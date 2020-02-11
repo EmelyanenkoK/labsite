@@ -20,4 +20,26 @@
 }
 .rubricator {
   margin-bottom: 20px;
+  padding: 5px 0px 5px 0px;
+}
+
+.year-input {
+  max-width: 6em;
+}
+
+.year-input::-webkit-outer-spin-button,
+.year-input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance:textfield;
 }
