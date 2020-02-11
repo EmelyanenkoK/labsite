@@ -21,7 +21,7 @@ literature = [
   },
   {
     "year": 2009,
-    "journal": "Langmuir 25.5 (2009): 2907-2912.",
+    "journal": "Langmuir 25.5: 2907-2912.",
     "tags": [
       "основы"
     ],
@@ -31,7 +31,7 @@ literature = [
   },
   {
     "year": 2010,
-    "journal": "ACS applied materials & interfaces 2.6 (2010): 1754-1758.",
+    "journal": "ACS applied materials & interfaces 2.6 : 1754-1758.",
     "tags": [
       "резина",
       "долговечность"
@@ -42,7 +42,7 @@ literature = [
   },
   {
     "year": 2010,
-    "journal": " Protection of Metals and Physical Chemistry of Surfaces 46, no. 6 (2010): 734-739.",
+    "journal": " Protection of Metals and Physical Chemistry of Surfaces 46, no. 6 : 734-739.",
     "tags": [
       "тефлон",
       "резина"
@@ -74,7 +74,7 @@ literature = [
   },
   {
     "year": 2011,
-    "journal": "Colloids and Surfaces A: Physicochemical and Engineering Aspects 383, no. 1-3 (2011): 61-66.",
+    "journal": "Colloids and Surfaces A: Physicochemical and Engineering Aspects 383, no. 1-3 : 61-66.",
     "tags": [
       "титан",
       "коррозия"
@@ -95,7 +95,7 @@ literature = [
   },
   {
     "year": 2012,
-    "journal": "Advances in colloid and interface science 179 (2012): 133-141.",
+    "journal": "Advances in colloid and interface science 179 : 133-141.",
     "tags": [
       "основы",
       "долговечность",
@@ -107,7 +107,7 @@ literature = [
   },
   {
     "year": 2012,
-    "journal": "Corrosion science 55 (2012): 238-245.",
+    "journal": "Corrosion science 55 : 238-245.",
     "tags": [
       "сталь",
       "коррозия"
@@ -129,7 +129,7 @@ literature = [
   },
   {
     "year": 2012,
-    "journal": "Russian Journal of Electrochemistry 48, no. 3 (2012): 336-345.",
+    "journal": "Russian Journal of Electrochemistry 48, no. 3 : 336-345.",
     "tags": [
       "титан",
       "коррозия",
@@ -141,7 +141,7 @@ literature = [
   },
   {
     "year": 2012,
-    "journal": "Langmuir 28, no. 2 (2012): 1206-1216",
+    "journal": "Langmuir 28, no. 2 : 1206-1216",
     "tags": [
       "бор-нитридные нанотрубки",
       ""
@@ -162,7 +162,7 @@ literature = [
   },
   {
     "year": 2013,
-    "journal": "Mendeleev Communications 1.23 (2013): 3-10.",
+    "journal": "Mendeleev Communications 1.23 : 3-10.",
     "tags": [
       "антиобледенение",
       "обзор"
@@ -173,7 +173,7 @@ literature = [
   },
   {
     "year": 2013,
-    "journal": "Russian Chemical Bulletin 62, no. 2 (2013): 380-387.",
+    "journal": "Russian Chemical Bulletin 62, no. 2 : 380-387.",
     "tags": [
       "антиобледенение",
       "алюминий",
@@ -196,7 +196,7 @@ literature = [
   },
   {
     "year": 2013,
-    "journal": "Surface and Coatings Technology 232 (2013): 240-246.",
+    "journal": "Surface and Coatings Technology 232 : 240-246.",
     "tags": [
       "магний",
       "коррозия"
@@ -316,7 +316,7 @@ literature = [
   },
   {
     "year": 2015,
-    "journal": "Applied Surface Science 332 (2015): 513-517",
+    "journal": "Applied Surface Science 332 : 513-517",
     "tags": [
       "долговечность",
       "сталь"
@@ -349,7 +349,7 @@ literature = [
   },
   {
     "year": 2015,
-    "journal": "Colloids and Surfaces A: Physicochemical and Engineering Aspects481 (2015): 167-175.",
+    "journal": "Colloids and Surfaces A: Physicochemical and Engineering Aspects481 : 167-175.",
     "tags": [
       "долговечность",
       "алюминий"
@@ -360,7 +360,7 @@ literature = [
   },
   {
     "year": 2016,
-    "journal": "Physical Chemistry Chemical Physics 18, no. 4 (2016): 3131-3136.",
+    "journal": "Physical Chemistry Chemical Physics 18, no. 4 : 3131-3136.",
     "tags": [
       "антиобледенение",
       "алюминий",
@@ -452,7 +452,7 @@ literature = [
   },
   {
     "year": 2018,
-    "journal": "Colloids and Surfaces A: Physicochemical and Engineering Aspects 537 (2018): 76-84.",
+    "journal": "Colloids and Surfaces A: Physicochemical and Engineering Aspects 537 : 76-84.",
     "tags": [
       "электролиты"
     ],
@@ -472,7 +472,7 @@ literature = [
   },
   {
     "year": 2018,
-    "journal": "Russian Journal of Physical Chemistry A 92, no. 1 (2018): 178-184.",
+    "journal": "Russian Journal of Physical Chemistry A 92, no. 1 : 178-184.",
     "tags": [
       "антиобледенение",
       "резина"
@@ -483,7 +483,7 @@ literature = [
   },
   {
     "year": 2018,
-    "journal": "ACS Applied Nano Materials 1, no. 3 (2018): 1348-1359.",
+    "journal": "ACS Applied Nano Materials 1, no. 3 : 1348-1359.",
     "tags": [
       "бактерицид",
       "алюминий"
@@ -494,7 +494,7 @@ literature = [
   },
   {
     "year": 2018,
-    "journal": " Bulletin of experimental biology and medicine 165, no. 4 (2018): 478-481.",
+    "journal": " Bulletin of experimental biology and medicine 165, no. 4 : 478-481.",
     "tags": [
       "бактерицид",
       "алюминий"
@@ -573,7 +573,7 @@ literature = [
   },
   {
     "year": 2019,
-    "journal": "Bulletin of experimental biology and medicine 167, no. 4 (2019): 500-503.",
+    "journal": "Bulletin of experimental biology and medicine 167, no. 4 : 500-503.",
     "tags": [
       "бактерицид",
       "алюминий"
@@ -584,7 +584,7 @@ literature = [
   },
   {
     "year": 2019,
-    "journal": "ACS Nano 13, no. 4 (2019): 4335-4346.",
+    "journal": "ACS Nano 13, no. 4 : 4335-4346.",
     "tags": [
       "алюминий",
       "долговечность",
@@ -597,7 +597,7 @@ literature = [
   },
   {
     "year": 2020,
-    "journal": "Colloids and Surfaces B: Biointerfaces 185 (2020): 110622.",
+    "journal": "Colloids and Surfaces B: Biointerfaces 185: 110622.",
     "tags": [
       "бактерицид",
       "медь",
