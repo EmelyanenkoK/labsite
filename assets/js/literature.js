@@ -602,7 +602,7 @@ function select_literature() {
   var ret = [];
   for(e of literature) {
     if(e['year']<filters.year_start) {continue;}
-    if(e['year']>filters.year_end) {continue;}
+    if(e['year']>filters.year_finish) {continue;}
     if(filters.materials.length > 0) {
       var suitable = true;
       for (t of filters.materials) {
