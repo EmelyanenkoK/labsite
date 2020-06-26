@@ -744,7 +744,7 @@ function update_literature() {
     if(topics.length <1) {
       $("#checkbox-helper2")[0].innerHTML = "топик не выбран, показаны все";
     } else {
-      $("#checkbox-helper2")[0].innerHTML = "топик не выбран, показаны все";
+      $("#checkbox-helper2")[0].innerHTML = "";
     }
   }
 }
