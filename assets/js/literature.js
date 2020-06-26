@@ -606,6 +606,76 @@ literature = [
     "authors": "Emelyanenko, Alexandre M., Ivan S. Pytskii, Valery V. Kaminsky, Elizaveta V. Chulkova, Alexander G. Domantovsky, Kirill A. Emelyanenko, Vladimir D. Sobolev, Andrey V. Aleshkin, and Ludmila B. Boinovich.",
     "title": "Superhydrophobic copper in biological liquids: Antibacterial activity and microbiologically induced or inhibited corrosion.",
     "link": "https://www.sciencedirect.com/science/article/pii/S0927776519307660"
+  },
+  {
+    "year": 2020,
+    "journal": "Surface Innovations",
+    "tags": [
+      "история"
+    ],
+    "authors": "Jaroslaw W. Drelich, Ludmila Boinovich, Emil Chibowski, Claudio Della Volpe, Lucyna Hołysz, Abraham Marmur, Stefano Siboni",
+    "title": "Contact angles: history of over 200 years of open questions",
+    "link": "https://www.icevirtuallibrary.com/doi/10.1680/jsuin.19.00007"
+  },
+  {
+    "year": 2020,
+    "journal": "Журнал физической химии",
+    "tags": [
+      "история"
+    ],
+    "authors": "Л. Б. Бойнович, А. М. Емельяненко.",
+    "title": "Развитие учения о поверхностных силах – от концепции расклинивающего давления к современным нанотехнологиям",
+    "link": "https://elibrary.ru/item.asp?doi=10.31857/S004445372003005X"
+  },
+  {
+    "year": 2020,
+    "journal": "Journal of Physical Chemistry Letters",
+    "tags": [
+      "алюминий", "антиобледенение"
+    ],
+    "authors": "Emelyanenko, A. M.; Emelyanenko, K. A.; Boinovich, L. B",
+    "title": "Deep Undercooling of Aqueous Droplets on a Superhydrophobic Surface: The Specific Role of Cation Hydration",
+    "link": "https://pubs.acs.org/doi/10.1021/acs.jpclett.0c00609"
+  },
+  {
+    "year": 2020,
+    "journal": "Российские нанотехнологии",
+    "tags": [
+      "долговечность","алюминий","антиобледенение"
+    ],
+    "authors": "Н.Е. Сатаева, К.А. Емельяненко, А.Г. Домантовский, А.М. Емельяненко, Л.Б. Бойнович",
+    "title": "Лазерная обработка алюминиевых сплавов для создания атмосферостойких супергидрофобных покрытий",
+    "link": ""
+  },
+  {
+    "year": 2020,
+    "journal": "Journal of Colloid and Interface Science",
+    "tags": [
+      "алюминий", "бактерицид", "супергидрофильность"
+    ],
+    "authors": "Emelyanenko, A. M.; Boinovich, L. B.; Emelyanenko, K. A.",
+    "title": "Spreading of biologically relevant liquids over the laser textured surfaces",
+    "link": "https://www.sciencedirect.com/science/article/abs/pii/S002197972030151X?via%3Dihub"
+  },
+  {
+    "year": 2020,
+    "journal": "J. Corros. Scale Inhib",
+    "tags": [
+      "сталь", "коррозия","электролиты"
+    ],
+    "authors": "V.I. Vigdorovich, L.E. Tsygankova, A.M. Emel’yanenko, M.N. Uryadnikova and E.Yu. Shel",
+    "title": "The effect of superhydrophobic coating on the electrochemical behavior of carbon steel in chloride and hydrogen sulfide–chloride environments",
+    "link": "http://ijcsi.pro/wp-content/uploads/2020/02/ijcsi-2020-v9-n1-p10-pp171-181.pdf"
+  },
+  {
+    "year": 2020,
+    "journal": "Surface and Coatings Technology",
+    "tags": [
+      "долговечность","алюминий","антиобледенение"
+    ],
+    "authors": "Natalia E. Sataeva, Ludmila B. Boinovich, Kirill A. Emelyanenko, Alexandr G. Domantovsky, Alexandre M. Emelyanenko",
+    "title": "Laser-assisted processing of aluminum alloy for the fabrication of superhydrophobic coatings withstanding multiple degradation factors",
+    "link": "https://doi.org/10.1016/j.surfcoat.2020.125993"
   }
 ]
 literature.reverse();
