@@ -165,7 +165,8 @@ literature = [
     "journal": "Mendeleev Communications 1.23 : 3-10.",
     "tags": [
       "антиобледенение",
-      "обзор"
+      "обзор",
+      "основы"
     ],
     "authors": "Boinovich, L. B., & Emelyanenko, A. M.",
     "title": "Anti-icing potential of superhydrophobic coatings.",
@@ -220,7 +221,8 @@ literature = [
     "year": 2013,
     "journal": "Herald of the Russian Academy of Sciences, 83(1), 8-18.",
     "tags": [
-      "обзор"
+      "обзор",
+      "основы"
     ],
     "authors": "Boinovich, L. B. ",
     "title": "Superhydrophobic coatings as a new class of polyfunctional materials.",
@@ -629,6 +631,16 @@ literature = [
   },
   {
     "year": 2020,
+    "journal": "Russian Journal of Physical Chemistry A",
+    "tags": [
+      "электролиты"
+    ],
+    "authors": "Chulkova, E. V., Emelyanenko, A. M., Emelyanenko, K. A., & Boinovich, L. B.",
+    "title": "Parameters of Supercooled Droplets of Water and Aqueous Solutions of Chlorides of Alkali Metals in the Temperature Range of +25 to −19°С",
+    "link": "https://doi.org/10.1134/S0036024420030061"
+  },
+  {
+    "year": 2020,
     "journal": "Journal of Physical Chemistry Letters",
     "tags": [
       "алюминий", "антиобледенение"
@@ -676,6 +688,28 @@ literature = [
     "authors": "Natalia E. Sataeva, Ludmila B. Boinovich, Kirill A. Emelyanenko, Alexandr G. Domantovsky, Alexandre M. Emelyanenko",
     "title": "Laser-assisted processing of aluminum alloy for the fabrication of superhydrophobic coatings withstanding multiple degradation factors",
     "link": "https://doi.org/10.1016/j.surfcoat.2020.125993"
+  },
+  {
+    "year": 2020,
+    "journal": "Bulletin of Experimental Biology and Medicine",
+    "tags": [
+      "бактерицид", "медь", "супергидрофильность"
+    ],
+    "authors": "Emelyanenko, A. M., Kaminskii, V. V., Pytskii, I. S., Domantovsky, A. G., Emelyanenko, K. A., Aleshkin, A. V., & Boinovich, L. B.",
+    "title": "Antibacterial Properties of Superhydrophilic Textured Copper in Contact with Bacterial Suspensions",
+    "link": "https://doi.org/10.1007/s10517-020-04737-5"
+  },
+  {
+    "year": 2020,
+    "journal": "Coatings",
+    "tags": [
+      "антиобледенение",
+      "обзор",
+      "основы"
+    ],
+    "authors": "Emelyanenko, K. A., Emelyanenko, A. M., & Boinovich, L. B.",
+    "title": "Water and Ice Adhesion to Solid Surfaces: Common and Specific, the Impact of Temperature and Surface Wettability",
+    "link": "https://doi.org/10.3390/coatings10070648"
   }
 ]
 literature.reverse();
