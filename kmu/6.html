@@ -13,19 +13,23 @@
         webvisor:true
    });
 </script>
+
 <noscript><div><img src="https://mc.yandex.ru/watch/34780440" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
+<title>Курнышева Ю.П.</title>
 </head>
 <body style="background-color: #e1edef;" onload="document.getElementById('presentation').focus()">
 
 
 <section style="" align="center">
         <img style="width:90%; height:auto;" src="header.jpg"></img>
-        <h1>Презентация Ломоносова Михаила Васильевича "Как делать презентации".</h1>
-        <span><<Предыдущая</span><div style="width:80%"></div><span>Следующая>></span> <br/>
+        <h1>Презентация Курнышевой Юлии Павловны <br/> "Исследование механизма жидкофазной адсорбции бензола на металлоорганическом каркасе HKUST-1
+".</h1>
+        <span><a href="./5.html" class="link"><<Предыдущая</a></span>
+        <span style="margin-left: 20%;margin-right: 20%;"><a href="./main.html" class="link">К списку</a></span>
+        <span><a href="./7.html" class="link">Следующая>></a></span> <br/>
         <span>Элементы управления и секция комментариев расположены под презентацией.</span>
-        
-        <iframe src="https://drive.google.com/file/d/19t_NGgFbNHDNXbOOE_eVhH90UTPuQAjh/preview" width="1588" height="922"></iframe>
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vThGr3nWtKUkyiQjNMD3YEJp7D_4mZq7mbsbJFB0-0JcwQBvowcz-8Et1Eab-Im7cMM9snHi2Ulf6pO/embed?start=false&loop=false&delayms=60000" frameborder="0" width="90%" height="80%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" id="presentation"></iframe>
         <div>
 	  <span> Для управления презентацией (перелистывания слайдов) воспользуйтесь стрелочками в левом нижнем углу презентации или стрелками на клавиатуре. Если страница прыгает при просмотре нажмите эту кнопку <button onclick="document.getElementById('presentation').scrollIntoView();">Сделать норм.</button>.</span>
 	</div>
@@ -39,4 +43,45 @@
 </section>
 
 </body>
+<script>
+
+function getCookieP() {
+  try {
+      x = document.cookie;
+      x = x.split(";")[0];
+      x=x.split("=")[1];
+      return x;
+    } catch {
+      return false;
+    }
+}
+
+function getP() {
+  if(getCookieP()) {
+    return getCookieP();
+  }
+  var queryDict = {};
+  location.search.substr(1).split("&").forEach(function(item) {queryDict[item.split("=")[0]] = item.split("=")[1]});
+  if(queryDict.p) {
+    document.cookie="p="+queryDict.p+"; expires=Fri, 31 Dec 9999 23:59:59 GMT";
+    return queryDict.p;
+  }
+  return false;
+}
+function ensureP() {
+  var queryDict = {};
+  location.search.substr(1).split("&").forEach(function(item) {queryDict[item.split("=")[0]] = item.split("=")[1]});
+  if(!queryDict.p && getP())
+    document.location.search="p="+getP();
+}
+
+ensureP();
+let p = getP();
+if(p) {
+  var links = document.getElementsByClassName("link");
+  for(l of links)
+    l.href +="?p="+p;
+}
+
+</script>
 </html>
