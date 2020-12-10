@@ -13,6 +13,7 @@
         webvisor:true
    });
 </script>
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
 
 <noscript><div><img src="https://mc.yandex.ru/watch/34780440" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
@@ -42,45 +43,5 @@
 </section>
 
 </body>
-<script>
-
-function getCookieP() {
-  try {
-      x = document.cookie;
-      x = x.split(";")[0];
-      x=x.split("=")[1];
-      return x;
-    } catch {
-      return false;
-    }
-}
-
-function getP() {
-  if(getCookieP()) {
-    return getCookieP();
-  }
-  var queryDict = {};
-  location.search.substr(1).split("&").forEach(function(item) {queryDict[item.split("=")[0]] = item.split("=")[1]});
-  if(queryDict.p) {
-    document.cookie="p="+queryDict.p+"; expires=Fri, 31 Dec 9999 23:59:59 GMT";
-    return queryDict.p;
-  }
-  return false;
-}
-function ensureP() {
-  var queryDict = {};
-  location.search.substr(1).split("&").forEach(function(item) {queryDict[item.split("=")[0]] = item.split("=")[1]});
-  if(!queryDict.p && getP())
-    document.location.search="p="+getP();
-}
-
-ensureP();
-let p = getP();
-if(p) {
-  var links = document.getElementsByClassName("link");
-  for(l of links)
-    l.href +="?p="+p;
-}
-
-</script>
+<script src="./p.js"></script>
 </html>
