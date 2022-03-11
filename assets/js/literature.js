@@ -710,7 +710,124 @@ literature = [
     "authors": "Emelyanenko, K. A., Emelyanenko, A. M., & Boinovich, L. B.",
     "title": "Water and Ice Adhesion to Solid Surfaces: Common and Specific, the Impact of Temperature and Surface Wettability",
     "link": "https://doi.org/10.3390/coatings10070648"
-  }
+  },
+  {
+    "year": 2021,
+    "journal": "Protection of Metals and Physical Chemistry of Surfaces",
+    "tags": [
+      "сталь", "коррозия","электролиты"
+    ],
+    "authors": "Vigdorovich, V. I., Tsygankova, L. E., Emelyanenko, A. M., Uryadnikova, M. N., Shel E. Y.",
+    "title": "Corrosion and Kinetics of Electrode Processes on Steel with Hydrophobic Coating in Chloride Environment and with the Addition of Hydrogen Sulfide",
+    "link": "https://link.springer.com/article/10.1134/S2070205121070194"
+  },
+  {
+    "year": 2021,
+    "journal": "Журнал технической физики ",
+    "tags": [
+      "алюминий",
+      "корона",
+      "долговечность"
+    ],
+    "authors": "А.Г. Домантовский, А.М. Емельяненко, К.А. Емельяненко, Л.Б. Бойнович",
+    "title": "Пороговый эффект деградации супергидрофобных покрытий, вызванный воздействием озона",
+    "link": "https://doi.org/10.21883/JTF.2021.08.51107.55-21"
+  },
+  {
+    "year": 2021,
+    "journal": "Microbiology",
+    "tags": [
+      "магний",
+      "бактерицид",
+      "коррозия",
+      "супергидрофильность"
+    ],
+    "authors": "V.V. Kaminsky, A.M. Emelyanenko, A.V. Aleshkin, K.A. Emelyanenko, and L.B. Boinovich",
+    "title": "Efficiency and Mechanisms of Bactericidal Effect of Superhydrophilic Magnesium Alloy Surface against Escherichia coli",
+    "link": "https://doi.org/10.1134/S002626172105009X"
+  },
+  {
+    "year": 2021,
+    "journal": "Metals",
+    "tags": [
+      "магний",
+      "коррозия"
+    ],
+    "authors": "Kirill A. Emelyanenko, Alexander G. Domantovsky, Elizaveta V. Chulkova, Alexandre M. Emelyanenko, Ludmila B. Boinovich",
+    "title": "Thermally induced gradient of properties on a superhydrophobic magnesium alloy surface",
+    "link": "https://doi.org/10.3390/met11010041"
+  },
+  {
+    "year": 2021,
+    "journal": "Emelyanenko A.M., Kaminsky V.V., Pytskii I.S., Emelyanenko K.A., Domantovsky A.G., Chulkova E.V., Aleshkin A.V., Boinovich L.B.",
+    "tags": [
+      "магний",
+      "бактерицид",
+      "коррозия",
+      "супергидрофильность"
+    ],
+    "authors": "Emelyanenko A.M., Kaminsky V.V., Pytskii I.S., Emelyanenko K.A., Domantovsky A.G., Chulkova E.V., Aleshkin A.V., Boinovich L.B",
+    "title": "Antimicrobial activity and degradation of superhydrophobic magnesium substrates in bacterial media",
+    "link": "https://doi.org/10.3390/met11071100"
+  },
+  {
+    "year": 2021,
+    "journal": "Materials",
+    "tags": [
+      "магний",
+      "бактерицид",
+      "коррозия",
+      "супергидрофильность"
+    ],
+    "authors": "Emelyanenko, A.M.; Domantovsky, A.G.; Kaminsky, V.V.; Pytskii, I.S.; Emelyanenko, K.A.; Boinovich, L.B. ",
+    "title": "The Mechanisms of Antibacterial Activity of Magnesium Alloys with Extreme Wettability.",
+    "link": "https://doi.org/10.3390/ma14185454"
+  },
+  {
+    "year": 2022,
+    "journal": "Surface Innovations",
+    "tags": [
+      "основы"
+    ],
+    "authors": "Elizaveta V. Chulkova, Kirill A. Emelyanenko, Alexandre M. Emelyanenko, Ludmila B. Boinovich",
+    "title": "Elimination of wetting study flaws in unsaturated vapors based on Laplace fit parameters",
+    "link": "https://doi.org/10.1680/jsuin.21.00012"
+  },
+  {
+    "year": 2022,
+    "journal": "Coatings",
+    "tags": [
+      "магний",
+      "коррозия"
+    ],
+    "authors": "Emelyanenko, K.A.; Chulkova, E.V.; Semiletov, A.M.; Domantovsky, A.G.; Palacheva, V.V.; Emelyanenko, A.M.; Boinovich, L.B.",
+    "title": "The Potential of the Superhydrophobic State to Protect Magnesium Alloy against Corrosion",
+    "link": "https://doi.org/10.3390/coatings12010074"
+  },
+  {
+    "year": 2022,
+    "journal": "Journal of Colloid and Interface Science",
+    "tags": [
+      "антиобледенение",
+      "SLIPS",
+      "алюминий"
+    ],
+    "authors": "Ludmila B. Boinovich, Kirill A. Emelyanenko, Alexandre M. Emelyanenko.",
+    "title": "Superhydrophobic versus SLIPS: Temperature Dependence and the Stability of Ice Adhesion Strength",
+    "link": "https://doi.org/10.1016/j.jcis.2021.08.030"
+  },
+  {
+    "year": 2022,
+    "journal": "Journal of Colloid and Interface Science",
+    "tags": [
+      "антиобледенение",
+      "SLIPS",
+      "алюминий"
+    ],
+    "authors": "Ludmila B. Boinovich, Elizaveta V. Chulkova, Kirill A. Emelyanenko, Alexander G. Domantovsky, Alexandre M. Emelyanenko",
+    "title": "The mechanisms of anti-icing properties degradation for slippery liquid-infused porous surfaces under shear stresses",
+    "link": "https://doi.org/10.1016/j.jcis.2021.11.169"
+  },
 ]
 literature.reverse();
 var filters = {year_start:0, year_finish:3000, materials:[], topics:[]};
