@@ -828,6 +828,68 @@ literature = [
     "title": "The mechanisms of anti-icing properties degradation for slippery liquid-infused porous surfaces under shear stresses",
     "link": "https://doi.org/10.1016/j.jcis.2021.11.169"
   },
+  {
+    "year": 2022,
+    "journal": "Materials",
+    "tags": [
+      "алюминий",
+      "супергидрофильность",
+      "долговечность"
+    ],
+    "authors": "Alexander G Domantovsky, Elizaveta V Chulkova, Kirill A Emelyanenko, Konstantin I Maslakov, Alexandre M Emelyanenko, Ludmila B Boinovich",
+    "title": "Evolution of Superhydrophilic Aluminum Alloy Properties in Contact with Water during Cyclic Variation in Temperature",
+    "link": "https://www.mdpi.com/1996-1944/15/7/2447/pdf"
+  },
+  {
+    "year": 2022,
+    "journal": "Коллоидный журнал",
+    "tags": [
+      "антиобледенение",
+      "супергидрофобность"
+    ],
+    "authors": "Е. В. Чулкова, К. А. Емельяненко, А. М. Емельяненко, Л. Б. Бойнович",
+    "title": "ИССЛЕДОВАНИЕ ПРОЧНОСТИ АДГЕЗИОННОГО КОНТАКТА ЛЬДА НА ПОВЕРХНОСТЯХ С РАЗЛИЧНЫМ СМАЧИВАНИЕМ",
+    "link": "https://sciencejournals.ru/view-article/?j=kolzhur&y=2022&v=84&n=2&a=KolZhur2202003Chulkova"
+  },
+  {
+    "year": 2022,
+    "journal": "Коллоидный журнал",
+    "tags": [
+      "антиобледенение",
+      "обзор",
+      "супергидрофобность",
+      "основы"
+    ],
+    "authors": "К.А. Емельяненко, А.М. Емельяненко, Л.Б. Бойнович",
+    "title": "ОБЗОР СОВРЕМЕННОГО СОСТОЯНИЯ ИССЛЕДОВАНИЙ АДГЕЗИОННЫХ ЯВЛЕНИЙ НА ГРАНИЦАХ ТВЕРДЫХ ТЕЛ С ТВЕРДЫМИ И ЖИДКИМИ ВОДНЫМИ СРЕДАМИ",
+    "link": "https://sciencejournals.ru/view-article/?j=kolzhur&y=2022&v=84&n=3&a=KolZhur2203003Emelyanenko"
+  },
+  {
+    "year": 2022,
+    "journal": "Journal of Colloid and Interface Science",
+    "tags": [
+      "антиобледенение",
+      "SLIPS",
+      "алюминий"
+    ],
+    "authors": "KA Emelyanenko, AM Emelyanenko, LB Boinovich",
+    "title": "Disjoining pressure analysis of the lubricant nanofilm stability of liquid-infused surface upon lubricant depletion",
+    "link": "https://www.sciencedirect.com/science/article/abs/pii/S0021979722004301"
+  },
+  {
+    "year": 2022,
+    "journal": "Energy Reports",
+    "tags": [
+      "антиобледенение",
+      "SLIPS",
+      "корона",
+      "алюминий"
+    ],
+    "authors": "Kirill A Emelyanenko, Alexander G Domantovsky, Pavel S Platonov, Pavel S Kochenkov, Alexandre M Emelyanenko, Ludmila B Boinovich",
+    "title": "The durability of superhydrophobic and slippery liquid infused porous surface coatings under corona discharge characteristic of the operation of high voltage power transmission lines",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2352484722008812"
+  },
+
 ]
 literature.reverse();
 var filters = {year_start:0, year_finish:3000, materials:[], topics:[]};
