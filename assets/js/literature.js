@@ -818,16 +818,17 @@ literature = [
   },
   {
     "year": 2022,
-    "journal": "Journal of Colloid and Interface Science",
+    "journal": "Energies",
     "tags": [
-      "антиобледенение",
-      "SLIPS",
-      "алюминий"
+      "алюминий",
+      "супергидрофобность",
+      "долговечность",
+      "озон"
     ],
-    "authors": "Ludmila B. Boinovich, Elizaveta V. Chulkova, Kirill A. Emelyanenko, Alexander G. Domantovsky, Alexandre M. Emelyanenko",
-    "title": "The mechanisms of anti-icing properties degradation for slippery liquid-infused porous surfaces under shear stresses",
-    "link": "https://doi.org/10.1016/j.jcis.2021.11.169"
-  },
+    "authors": "Evgeny A Chinnov, Sergey Ya Khmel, Victor Yu Vladimirov, Aleksey I Safonov, Vitaliy V Semionov, Kirill A Emelyanenko, Alexandre M Emelyanenko, Ludmila B Boinovich",
+    "title": "Boiling Heat Transfer Enhancement on Biphilic Surfaces",
+    "link": "https://www.mdpi.com/1996-1073/15/19/7296"
+  },  
   {
     "year": 2022,
     "journal": "Materials",
@@ -888,6 +889,55 @@ literature = [
     "authors": "Kirill A Emelyanenko, Alexander G Domantovsky, Pavel S Platonov, Pavel S Kochenkov, Alexandre M Emelyanenko, Ludmila B Boinovich",
     "title": "The durability of superhydrophobic and slippery liquid infused porous surface coatings under corona discharge characteristic of the operation of high voltage power transmission lines",
     "link": "https://www.sciencedirect.com/science/article/pii/S2352484722008812"
+  },
+  {
+    "year": 2023,
+    "journal": "Коллоидный журнал",
+    "tags": [
+      "вольфрам",
+      "супергидрофобность",
+      "долговечность"
+    ],
+    "authors": "Кузина Е.А., Омран Ф. Ш., Емельяненко А.М., Бойнович Л.Б.",
+    "title": "О важности подбора режима гидрофобизации для получения стойких супергидрофобных покрытий",
+    "link": "https://colljour.phyche.ac.ru/issues-board/#"
+  },
+  {
+    "year": 2022,
+    "journal": "Коллоидный журнал",
+    "tags": [
+      "краска",
+      "супергидрофобность",
+      "долговечность"
+    ],
+    "authors": "Кузина Е.А., Емельяненко К.А., Домантовский А.Г., Емельяненко А.М., Бойнович Л.Б.",
+    "title": "Получение стойких супергидрофобных покрытий на поверхности краски с применением лазерной обработки и нанесения гидрофобизатора",
+    "link": "https://sciencejournals.ru/view-article/?j=kolzhur&y=2022&v=84&n=4&a=KolZhur2204009Kuzina"
+  },
+  {
+    "year": 2022,
+    "journal": "Materials",
+    "tags": [
+      "алюминий",
+      "супергидрофобность",
+      "долговечность",
+      "озон"
+    ],
+    "authors": "A.G. Domantovsky, K.A. Emelyanenko, A.M. Emelyanenko, L.B. Boinovich",
+    "title": "The Influence of Prolonged High-Concentration Ozone Exposure on Superhydrophobic Coatings in Static and High-Speed Flow Atmospheres",
+    "link": "https://www.mdpi.com/1996-1944/15/16/5725"
+  },
+  {
+    "year": 2022,
+    "journal": "Journal of Colloid and Interface Science",
+    "tags": [
+      "антиобледенение",
+      "SLIPS",
+      "алюминий"
+    ],
+    "authors": "Ludmila B. Boinovich, Elizaveta V. Chulkova, Kirill A. Emelyanenko, Alexander G. Domantovsky, Alexandre M. Emelyanenko",
+    "title": "The mechanisms of anti-icing properties degradation for slippery liquid-infused porous surfaces under shear stresses",
+    "link": "https://doi.org/10.1016/j.jcis.2021.11.169"
   },
 
 ]
