@@ -939,7 +939,18 @@ literature = [
     "title": "The mechanisms of anti-icing properties degradation for slippery liquid-infused porous surfaces under shear stresses",
     "link": "https://doi.org/10.1016/j.jcis.2021.11.169"
   },
-
+  {
+    "year": 2023,
+    "journal": "Materials",
+    "tags": [
+      "вольфрам",
+      "супергидрофобность",
+      "долговечность",
+    ],
+    "authors": "E.A. Kuzina, K.A. Emelyanenko, M.A. Teplonogova, A.M. Emelyanenko, L.B. Boinovich",
+    "title": "Durable superhydrophobic coatings on tungsten surface by nanosecond laser ablation and fluorooxysilane modification",
+    "link": ""
+  },
 ]
 literature.reverse();
 var filters = {year_start:0, year_finish:3000, materials:[], topics:[]};
