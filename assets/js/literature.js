@@ -949,7 +949,7 @@ literature = [
     ],
     "authors": "E.A. Kuzina, K.A. Emelyanenko, M.A. Teplonogova, A.M. Emelyanenko, L.B. Boinovich",
     "title": "Durable superhydrophobic coatings on tungsten surface by nanosecond laser ablation and fluorooxysilane modification",
-    "link": ""
+    "link": "https://www.mdpi.com/1996-1944/16/1/196"
   },
 ]
 literature.reverse();
