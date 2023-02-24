@@ -783,6 +783,7 @@ literature = [
     "title": "The Mechanisms of Antibacterial Activity of Magnesium Alloys with Extreme Wettability.",
     "link": "https://doi.org/10.3390/ma14185454"
   },
+
   {
     "year": 2022,
     "journal": "Surface Innovations",
@@ -865,6 +866,20 @@ literature = [
     "title": "ОБЗОР СОВРЕМЕННОГО СОСТОЯНИЯ ИССЛЕДОВАНИЙ АДГЕЗИОННЫХ ЯВЛЕНИЙ НА ГРАНИЦАХ ТВЕРДЫХ ТЕЛ С ТВЕРДЫМИ И ЖИДКИМИ ВОДНЫМИ СРЕДАМИ",
     "link": "https://sciencejournals.ru/view-article/?j=kolzhur&y=2022&v=84&n=3&a=KolZhur2203003Emelyanenko"
   },
+  
+  {
+    "year": 2022,
+    "journal": "Коллоидный журнал",
+    "tags": [
+      "обзор",
+      "супергидрофобность",
+      "основы"
+    ],
+    "authors": "А.М. Емельяненко",
+    "title": "Супергидрофобные материалы и покрытия: От фундаментальных исследований до практических приложенийИ",
+    "link": "https://sciencejournals.ru/view-article/?j=kolzhur&y=2022&v=84&n=4&a=KolZhur2204003Emelyanenko"
+  },
+  
   {
     "year": 2022,
     "journal": "Journal of Colloid and Interface Science",
@@ -940,6 +955,16 @@ literature = [
     "link": "https://doi.org/10.1016/j.jcis.2021.11.169"
   },
   {
+    "year": 2022,
+    "journal": "Коллоидный журнал",
+    "tags": [
+      "антиобледенение",
+    ],
+    "authors": "Серенко О.А., Мешков И.Б., Афанасьев Е.С., Кузина Е.А., Емельяненко А.М., Бойнович Л.Б., Музафаров А.М.",
+    "title": "Кристаллизация капель воды на модифицированных покрытиях на основе полидиметилсилоксанового каучука, сшитого MQ сополимером ",
+    "link": "https://sciencejournals.ru/view-article/?j=kolzhur&y=2022&v=84&n=4&a=KolZhur2204010Serenko"
+  },
+  {
     "year": 2023,
     "journal": "Materials",
     "tags": [
@@ -950,6 +975,40 @@ literature = [
     "authors": "E.A. Kuzina, K.A. Emelyanenko, M.A. Teplonogova, A.M. Emelyanenko, L.B. Boinovich",
     "title": "Durable superhydrophobic coatings on tungsten surface by nanosecond laser ablation and fluorooxysilane modification",
     "link": "https://www.mdpi.com/1996-1944/16/1/196"
+  },
+  {
+    "year": 2023,
+    "journal": "Physical Chemistry Chemical Physics",
+    "tags": [
+      "супергидрофобность",
+      "антиобледенение",
+    ],
+    "authors": "A.M. Emelyanenko, K.A. Emelyanenko, A.Ya. Vul’, A.V. Shvidchenko and L.B. Boinovich",
+    "title": "The role of nanoparticle charge in crystallization kinetics and ice adhesion strength for dispersions of detonation nanodiamonds",
+    "link": "https://pubs.rsc.org/en/content/articlelanding/2023/CP/D2CP05144C"
+  },  
+  {
+    "year": 2023,
+    "journal": "Coatings",
+    "tags": [
+      "супергидрофобность",
+      "коррозия",
+      "сталь",
+    ],
+    "authors": "Emelyanenko, K.A.; Emelyanenko, A.M.; Boinovich, L.B",
+    "title": "Laser Obtained Superhydrophobic State for Stainless Steel Corrosion Protection, a Review",
+    "link": "https://www.mdpi.com/2079-6412/13/1/194"
+  },
+  {
+    "year": 2022,
+    "journal": "Коллоидный журнал",
+    "tags": [
+      "супергидрофобность",
+      "долговечность"
+    ],
+    "authors": "Кузина Е. А., Омран Ф. Ш., Емельяненко А. М., Бойнович Л. Б.",
+    "title": "О важности подбора режима гидрофобизации для получения стойких супергидрофобных покрытий",
+    "link": "https://colljour.phyche.ac.ru/issues-board/"
   },
 ]
 literature.reverse();
