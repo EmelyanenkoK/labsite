@@ -1037,6 +1037,40 @@ literature = [
     "title": "ВЛИЯНИЕ БИОЛОГИЧЕСКОЙ ЗАГРЯЗНЕННОСТИ МЕДНЫХ ПОВЕРХНОСТЕЙ С ЭКСТРЕМАЛЬНЫМ СМАЧИВАНИЕМ НА ИХ АНТИБАКТЕРИАЛЬНЫЕ СВОЙСТВА",
     "link": "https://doi.org/10.1134/S1061933X23600641"
   },
+  {
+    "year": 2024,
+    "journal": "International Journal of Molecular Sciences",
+    "tags": [
+      "супергидрофобность",
+      "супергидрофильность",
+      "бактерицид",
+      "медь"
+    ],
+    "authors": "Nataliya E. Bondareva, Anna B. Sheremet, Elena Y. Morgunova, Irina R. Khisaeva, Alisa S. Parfenova, Marina Y. Chernukha, Fadi S. Omran, Alexandre M. Emelyanenko, Ludmila B. Boinovich",
+    "title": "Study of the antibacterial activity of superhydrophilic and superhydrophobic copper substrates against multi-drug resistant hospital-acquired Pseudomonas aeruginosa isolates",
+    "link": "https://doi.org/10.3390/ijms25020779"
+  },
+  {
+    "year": 2024,
+    "journal": "Diamond & Related Materials",
+    "tags": [
+    ],
+    "authors": "L. Ostrovskaya, L. Boinovich, A. Bolshakov, A. Popovich, R. Khmelnitskiy, V. Ralchenko",
+    "title": "Dynamic wetting of low-index diamond planes and polycrystalline diamond with H-terminated and O-terminated surfaces",
+    "link": "https://doi.org/10.1016/j.diamond.2024.110864 "
+  },
+  {
+    "year": 2024,
+    "journal": "International Journal of Molecular Sciences",
+    "tags": [
+      "SLIPS",
+      "алюминий",
+      "обзор",
+    ],
+    "authors": "Ludmila B. Boinovich, Alexandre M. Emelyanenko, Kirill A. Emelyanenko",
+    "title": "Effect of Water Adsorption on Lubricating Film Stability in Slippery Coatings",
+    "link": "https://doi.org/10.1021/acs.langmuir.3c02524"
+  },
 ]
 literature.reverse();
 var filters = {year_start:0, year_finish:3000, materials:[], topics:[]};
