@@ -1071,6 +1071,159 @@ literature = [
     "title": "Effect of Water Adsorption on Lubricating Film Stability in Slippery Coatings",
     "link": "https://doi.org/10.1021/acs.langmuir.3c02524"
   },
+  {
+    "year": 2024,
+    "journal": "International Journal of Molecular Sciences",
+    "tags": [
+      "супергидрофобность",
+      "супергидрофильность",
+      "бактерицид",
+      "медь"
+    ],
+    "authors": "Emelyanenko A.M., Omran F.S., Teplonogova M.A., Chernukha M.Y., Avetisyan L.R., Tselikina E.G., Putsman G.A., Zyryanov S.K., Butranova O.I., Emelyanenko K.A., Boinovich L.B.",
+    "title": "An Antimicrobial Copper–Plastic Composite Coating: Characterization and In Situ Study in a Hospital Environment",
+    "link": "http://dx.doi.org/10.3390/ijms25084471"
+  },
+  {
+    "year": 2024,
+    "journal": "International Journal of Molecular Sciences",
+    "tags": [
+      "супергидрофобность",
+      "супергидрофильность",
+      "бактерицид",
+      "медь"
+    ],
+    "authors": " Bondareva N.E., Sheremet A.B., Morgunova E.Y., Khisaeva I.R., Parfenova A.S., Chernukha M.Y., Omran F.S., Emelyanenko A.M., Boinovich L.B.",
+    "title": "Study of the Antibacterial Activity of Superhydrophilic and Superhydrophobic Copper Substrates against Multi-Drug-Resistant Hospital-Acquired Pseudomonas aeruginosa Isolates",
+    "link": "http://dx.doi.org/10.3390/ijms25020779"
+  },
+  {
+    "year": 2024,
+    "journal": "ACS Nano",
+    "tags": [
+      "супергидрофобность",
+      "обзор"
+    ],
+    "authors": "Kékicheff P., Heinrich B., Hemmerle A., Fontaine P., Lambour C., Beyer N., Favier D., Egele A., Emelyanenko K. A., Modin E., Emelyanenko A.M., Boinovich L.B. ",
+    "title": "Condensation or Desublimation: Nanolevel Structural Look on Two Frost Formation Pathways on Surfaces with Different Wettabilities",
+    "link": "http://dx.doi.org/10.1021/acsnano.4c02192"
+  },
+  {
+    "year": 2024,
+    "journal": "SURFACE INNOVATIONS",
+    "tags": [
+      "бактерицид",
+      "обзор",
+      "супергидрофобность",
+      "супергидрофильность",
+    ],
+    "authors": " Emelyanenko A.M., Makvandi P., Moradialvand M., Boinovich L.B.",
+    "title": "Harnessing Extreme Wettability: Combatting Spread of Bacterial Infections in Healthcare",
+    "link": "SURFACE INNOVATIONS"
+  },
+  {
+    "year": 2024,
+    "journal": "Surface and Coatings Technology",
+    "tags": [
+      "магний",
+      "обзор",
+      "супергидрофобность",
+    ],
+    "authors": "Boinovich L.B., Emelyanenko K.A., Emelyanenko A.M.",
+    "title": "The mechanisms and advances in magnesium-based materials protection against corrosion by the superhydrophobic coatings",
+    "link": "http://dx.doi.org/10.1016/j.surfcoat.2024.130607"
+  },
+  {
+    "year": 2024,
+    "journal": "Optics and Laser Technology",
+    "tags": [
+      "корона",
+      "супергидрофобность",
+      "супергидрофильность",
+    ],
+    "authors": "Emelyanenko K.A., Emelyanenko A.M., Boinovich L.B.",
+    "title": "Laser nanoengineered coatings for efficient energy transportation through corona discharge suppression",
+    "link": "http://dx.doi.org/10.1016/j.optlastec.2023.110394"
+  },
+  {
+    "year": 2024,
+    "journal": "Advances in Colloid and Interface Science",
+    "tags": [
+      "антиобледенение",
+      "обзор",
+    ],
+    "authors": "Boinovich L.B., Emelyanenko A.M.",
+    "title": "Recent progress in understanding the anti-icing behavior of materials",
+    "link": "http://dx.doi.org/10.1016/j.cis.2023.103057"
+  },
+  {
+    "year": 2024,
+    "journal": "Effect of Shear Loading Conditions on the Measured Strength of Ice Adhesion to Superhydrophobic Surfaces",
+    "tags": [
+      "антиобледенение",
+      "алюминий",
+      "супергидрофобность",
+    ],
+    "authors": "Emelyanenko K.A., Emelyanenko A.M., Boinovich L.B.",
+    "title": "Effect of Shear Loading Conditions on the Measured Strength of Ice Adhesion to Superhydrophobic Surfaces",
+    "link": "http://dx.doi.org/10.1134/s1061933x24600180"
+  },
+  {
+    "year": 2024,
+    "journal": "Langmuir",
+    "tags": [
+      "SLIPS",
+      "обзор",
+    ],
+    "authors": "Boinovich L.B., Emelyanenko A.M., Emelyanenko K.A.",
+    "title": "Effect of Water Adsorption on Lubricating Film Stability in Slippery Coatings",
+    "link": "http://dx.doi.org/10.1021/acs.langmuir.3c02524"
+  },
+  {
+    "year": 2024,
+    "journal": "Коррозия: защита материалов и методы исследований",
+    "tags": [
+      "коррозия",
+      "магний",
+      "алюминий",
+      "долговечность",
+      "супергидрофобность",
+    ],
+    "authors": "Емельяненко А.М., Емельяненко К.А., Балдаев Л.Х., Маньковский С.А., Федорова М.О., Балдаев С.Л., Бойнович Л.Б. ",
+    "title": "Применение электродугового нанесения алюминия и супергидрофобизации для защиты магниевых сплавов от коррозии",
+    "link": "http://dx.doi.org/10.61852/2949-3412-2024-2-2-1-12"
+  },
+  {
+    "year": 2024,
+    "journal": "Теплофизика высоких температур",
+    "tags": [
+      "супергидрофильность",
+    ],
+    "authors": "Чиннов Е.А., Хмель С.Я., Владимиров В.Ю., Емельяненко К.А., Емельяненко А.М., Бойнович Л.Б.",
+    "title": "Интенсификация теплообмена при кипении на поверхностях с гидрофобными кавернами",
+    "link": "http://dx.doi.org/10.31857/s0040364424020113"
+  },
+  {
+    "year": 2024,
+    "journal": "Diamond and Related Materials",
+    "tags": [
+    ],
+    "authors": "Ostrovskaya L., Boinovich L., Bolshakov A., Popovich A., Khmelnitskiy R., Ralchenko V.",
+    "title": "Dynamic wetting of low-index diamond planes and polycrystalline diamond with H-terminated and O-terminated surfaces",
+    "link": "http://dx.doi.org/10.1016/j.diamond.2024.110864"
+  },
+  {
+    "year": 2025,
+    "journal": "Efficient Corona Suppression Coatings and Their Behavior in Corrosive and Icy Environments",
+    "tags": [
+      "корона",
+      "супергидрофобность",
+      "супергидрофильность",
+    ],
+    "authors": "Emelyanenko K.A., Teplonogova M.A., Emelyanenko A.M., Boinovich L.B.",
+    "title": "Efficient Corona Suppression Coatings and Their Behavior in Corrosive and Icy Environments",
+    "link": "http://dx.doi.org/10.3390/ma18020254"
+  },
 ]
 literature.reverse();
 var filters = {year_start:0, year_finish:3000, materials:[], topics:[]};
