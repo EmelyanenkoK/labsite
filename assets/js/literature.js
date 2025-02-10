@@ -1052,15 +1052,6 @@ literature = [
   },
   {
     "year": 2024,
-    "journal": "Diamond & Related Materials",
-    "tags": [
-    ],
-    "authors": "L. Ostrovskaya, L. Boinovich, A. Bolshakov, A. Popovich, R. Khmelnitskiy, V. Ralchenko",
-    "title": "Dynamic wetting of low-index diamond planes and polycrystalline diamond with H-terminated and O-terminated surfaces",
-    "link": "https://doi.org/10.1016/j.diamond.2024.110864 "
-  },
-  {
-    "year": 2024,
     "journal": "International Journal of Molecular Sciences",
     "tags": [
       "SLIPS",
@@ -1158,7 +1149,7 @@ literature = [
   },
   {
     "year": 2024,
-    "journal": "Effect of Shear Loading Conditions on the Measured Strength of Ice Adhesion to Superhydrophobic Surfaces",
+    "journal": "Colloid Journal",
     "tags": [
       "антиобледенение",
       "алюминий",
@@ -1214,7 +1205,7 @@ literature = [
   },
   {
     "year": 2025,
-    "journal": "Efficient Corona Suppression Coatings and Their Behavior in Corrosive and Icy Environments",
+    "journal": "Materials",
     "tags": [
       "корона",
       "супергидрофобность",
@@ -1225,6 +1216,43 @@ literature = [
     "link": "http://dx.doi.org/10.3390/ma18020254"
   },
 ]
+
+function removeDuplicates(literature) {
+    const seenTitles = new Set();
+    const seenLinks = new Set();
+    let duplicatesRemoved = 0;
+
+    // Filter the literature array
+    const filteredLiterature = literature.filter(item => {
+        // Strip whitespace from title and link
+        const strippedTitle = item.title.trim();
+        const strippedLink = item.link.trim();
+
+        // Check if the title or link has been seen before
+        if (seenTitles.has(strippedTitle) || seenLinks.has(strippedLink)) {
+            console.error(`Duplicate found and removed: Title - "${strippedTitle}", Link - "${strippedLink}"`);
+            duplicatesRemoved++;
+            return false; // Exclude this item from the filtered array
+        }
+
+        // Add the stripped title and link to the sets
+        seenTitles.add(strippedTitle);
+        seenLinks.add(strippedLink);
+        return true; // Include this item in the filtered array
+    });
+
+    // Log the total number of duplicates removed
+    if (duplicatesRemoved > 0) {
+        console.log(`Total duplicates removed: ${duplicatesRemoved}`);
+    } else {
+        console.log("No duplicates found.");
+    }
+
+    return filteredLiterature;
+}
+
+literature = removeDuplicates(literature);
+
 literature.reverse();
 var filters = {year_start:0, year_finish:3000, materials:[], topics:[]};
 function select_literature() {
