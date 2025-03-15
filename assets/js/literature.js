@@ -1161,17 +1161,6 @@ literature = [
   },
   {
     "year": 2024,
-    "journal": "Langmuir",
-    "tags": [
-      "SLIPS",
-      "обзор",
-    ],
-    "authors": "Boinovich L.B., Emelyanenko A.M., Emelyanenko K.A.",
-    "title": "Effect of Water Adsorption on Lubricating Film Stability in Slippery Coatings",
-    "link": "http://dx.doi.org/10.1021/acs.langmuir.3c02524"
-  },
-  {
-    "year": 2024,
     "journal": "Коррозия: защита материалов и методы исследований",
     "tags": [
       "коррозия",
