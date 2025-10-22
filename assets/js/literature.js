@@ -1193,6 +1193,14 @@ literature = [
     "link": "http://dx.doi.org/10.1016/j.diamond.2024.110864"
   },
   {
+    "year": 2024,
+    "journal": "Doklady Physical Chemistry",
+    "tags": ["супергидрофобность", "краска", "долговечность", "антиобледенение"],
+    "authors": "Kuzina E.A., Emelyanenko A.M., Boinovich L.B.",
+    "title": "Superhydrophobisation of Painted Surfaces to Improve Their Protective Properties and Impart New Functional Properties to Materials",
+    "link": "https://doi.org/10.31857/S2686953524060031"
+  },
+  {
     "year": 2025,
     "journal": "Materials",
     "tags": [
@@ -1204,6 +1212,76 @@ literature = [
     "title": "Efficient Corona Suppression Coatings and Their Behavior in Corrosive and Icy Environments",
     "link": "http://dx.doi.org/10.3390/ma18020254"
   },
+
+
+
+
+  {
+    "year": 2025,
+    "journal": "ACS Omega",
+    "tags": ["медь", "бактерицид", "супергидрофильность", "супергидрофобность"],
+    "authors": "Emelyanenko A.M., Omran F.Sh., Chernukha M.Yu., Avetisyan L.R., Tselikina E.G., Putsman G.A., Zyryanov S.K., Emelyanenko K.A., Boinovich L.B.",
+    "title": "Does Extreme Wettability Matter: The Effect of Copper Wettability on Infection Spread through Hospital Surfaces",
+    "link": "https://doi.org/10.1021/acsomega.5c01931"
+  },
+  {
+    "year": 2025,
+    "journal": "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
+    "tags": ["медь", "бактерицид", "супергидрофильность", "супергидрофобность"],
+    "authors": "Emelyanenko A.M., Omran F.Sh., Chernukha M.Yu., Avetisyan L.R., Tselikina E.G., Putsman G.A., Zyryanov S.K., Emelyanenko K.A., Buglak A.V., Boinovich L.B.",
+    "title": "Engineering wettability-controlled copper surfaces to mitigate airborne bacterial contamination in hospitals",
+    "link": "https://doi.org/10.1016/j.colsurfa.2025.137085"
+  },
+  {
+    "year": 2025,
+    "journal": "Progress in Organic Coatings",
+    "tags": ["супергидрофобность", "краска"],
+    "authors": "Kuzina E.A., Teplonogova M.A., Emelyanenko A.M., Boinovich L.B.",
+    "title": "Superhydrophobic Epoxy Coatings via Pulsed Laser Processing",
+    "link": "https://doi.org/10.1016/j.porgcoat.2025.109272"
+  },
+  {
+    "year": 2025,
+    "journal": "Advanced Engineering Materials",
+    "tags": ["магний", "алюминий", "коррозия", "супергидрофобность", "долговечность"],
+    "authors": "Boinovich L.B., Domantovsky A.G., Emelyanenko A.M., Emelyanenko K.A.",
+    "title": "Synergism of Arc Spraying, Laser Processing, and Hydrophobization for Long-Lasting Corrosion Protection of Magnesium Alloys",
+    "link": "https://doi.org/10.1002/adem.202401708"
+  },
+  {
+    "year": 2025,
+    "journal": "Langmuir",
+    "tags": ["SLIPS", "электролиты"],
+    "authors": "Golubitchenko T.V., Emelyanenko K.A., Krasovsky V.G., Emelyanenko A.M., Boinovich L.B.",
+    "title": "Are the Imidazole Ionic Liquids Suitable Lubricants for Slippery Coatings?",
+    "link": "https://doi.org/10.1021/acs.langmuir.4c04543"
+  },
+  {
+    "year": 2025,
+    "journal": "Colloid Journal",
+    "tags": ["супергидрофобность", "антиобледенение", "обзор"],
+    "authors": "Emelyanenko K.A., Emelyanenko A.M., Boinovich L.B.",
+    "title": "Supercooling of Evaporating Water Droplets on Superhydrophobic Surfaces at Low Temperatures",
+    "link": "https://doi.org/10.1134/S1061933X25600642"
+  },
+  {
+    "year": 2025,
+    "journal": "Colloid Journal",
+    "tags": ["супергидрофобность", "краска", "долговечность"],
+    "authors": "Kuzina E.A., Teplonogova M.A., Buglak A.V., Emelyanenko K.A.",
+    "title": "Superhydrophobic Coating Based on EP-140 Epoxy Enamel: A Study of Mechanical Endurance under External Actions",
+    "link": "https://doi.org/10.1134/S1061933X25600307"
+  },
+
+  {
+    "year": 2025,
+    "journal": "Russian Chemical Bulletin",
+    "tags": ["электролиты"],
+    "authors": "Krasovskiy V.G., Gorbatsevich O.B., Golubitchenko T.V., Glukhov L.M., Chernikova E.A., Kustov L.M.",
+    "title": "Effect of the nature of substituents in the imidazolium cation on the properties of monocationic ionic liquids",
+    "link": "https://doi.org/10.1007/s11172-025-4530-9"
+  }
+  
 ]
 
 function removeDuplicates(literature) {
