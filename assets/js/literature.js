@@ -1052,7 +1052,7 @@ literature = [
   },
   {
     "year": 2024,
-    "journal": "International Journal of Molecular Sciences",
+    "journal": "Langmuir, 40(3), 1633–1645",
     "tags": [
       "SLIPS",
       "алюминий",
@@ -1101,7 +1101,7 @@ literature = [
   },
   {
     "year": 2024,
-    "journal": "SURFACE INNOVATIONS",
+    "journal": "Surface Innovations, 12(7), 360–379.",
     "tags": [
       "бактерицид",
       "обзор",
@@ -1110,7 +1110,7 @@ literature = [
     ],
     "authors": " Emelyanenko A.M., Makvandi P., Moradialvand M., Boinovich L.B.",
     "title": "Harnessing Extreme Wettability: Combatting Spread of Bacterial Infections in Healthcare",
-    "link": "SURFACE INNOVATIONS"
+    "link": "https://doi.org/10.1680/jsuin.24.00048"
   },
   {
     "year": 2024,
@@ -1234,7 +1234,7 @@ literature = [
   },
   {
     "year": 2025,
-    "journal": "Progress in Organic Coatings",
+    "journal": "Progress in Organic Coatings, 204, 109272.",
     "tags": ["супергидрофобность", "краска"],
     "authors": "Kuzina E.A., Teplonogova M.A., Emelyanenko A.M., Boinovich L.B.",
     "title": "Superhydrophobic Epoxy Coatings via Pulsed Laser Processing",
@@ -1280,35 +1280,162 @@ literature = [
     "authors": "Krasovskiy V.G., Gorbatsevich O.B., Golubitchenko T.V., Glukhov L.M., Chernikova E.A., Kustov L.M.",
     "title": "Effect of the nature of substituents in the imidazolium cation on the properties of monocationic ionic liquids",
     "link": "https://doi.org/10.1007/s11172-025-4530-9"
+  },
+
+
+  {
+    "year": 2024,
+    "journal": "Colloid Journal, 86(5), 699–704.",
+    "tags": [
+      "супергидрофильность",
+      "корона",
+      "долговечность"
+    ],
+    "authors": "Emelyanenko K.A., Ryabkova O.A., Denman N.",
+    "title": "Creation of Hydrophilic Organosilicon Coatings and Study of Their Resistance to Factors Accompanying Corona Discharge",
+    "link": "https://doi.org/10.1134/S1061933X24600842"
+  },
+  {
+    "year": 2024,
+    "journal": "Colloid Journal, 86(5), 744–756.",
+    "tags": [
+      "супергидрофильность",
+      "бактерицид"
+    ],
+    "authors": "Omran F.S., Kaminsky V.V.",
+    "title": "Modification of Antibacterial Superhydrophilic Surfaces to Enhance Their Resistance to Contamination with Fibers during Sanitation Procedures",
+    "link": "https://doi.org/10.1134/S1061933X24600763"
+  },
+  {
+    "year": 2025,
+    "journal": "Surface & Coatings Technology, 518, 132876.",
+    "tags": [
+      "алюминий",
+      "магний",
+      "супергидрофобность",
+      "долговечность",
+      "антиобледенение",
+      "коррозия"
+    ],
+    "authors": "Teplonogova M.A., Emelyanenko K.A., Emelyanenko A.M., Boinovich L.B.",
+    "title": "Balancing heat and pulse width in laser texturing of Al-Mg alloy: Superhydrophobicity with wear, icing, and corrosion control",
+    "link": "https://doi.org/10.1016/j.surfcoat.2025.132876"
+  },
+  {
+    "year": 2025,
+    "journal": "Journal of Cystic Fibrosis, 24, S138.",
+    "tags": [
+      "медь",
+      "бактерицид",
+      "супергидрофильность",
+      "супергидрофобность"
+    ],
+    "authors": "Chernukha M.Y., Avetisyan L.R., Tselikina E.G., Emelyanenko A.M., Omran F.S., Boinovich L.B.",
+    "title": "P221 Investigation of antimicrobial effects of superhydrophilic and superhydrophobic copper surfaces in high-touch areas of hospitals",
+    "link": "https://doi.org/10.1016/j.jcf.2025.03.1107"
+  },
+
+  {
+    "year": 2026,
+    "journal": "Коллоидный журнал / Colloid Journal, 88(3), 286–304.",
+    "tags": [
+      "медь",
+      "бактерицид",
+      "супергидрофильность",
+      "супергидрофобность",
+      "электролиты"
+    ],
+    "authors": "Емельяненко А.М., Яровикова А.В., Емельяненко К.А., Гапоненко В.Р., Пыцкий И.С., Филин Д.В., Аверин А.А., Буглак А.В., Бойнович Л.Б.",
+    "title": "Фотоактивные покрытия Cu–TiO2 с иерархической текстурой: влияние анатаза и рутила на смачивание и кинетику высвобождения меди в физиологическом растворе",
+    "link": "https://colljour.phyche.ac.ru/papers/880315/"
+  },
+  {
+    "year": 2026,
+    "journal": "Surfaces and Interfaces, 80, 108319.",
+    "tags": [
+      "SLIPS",
+      "антиобледенение"
+    ],
+    "authors": "Golubitchenko T.V., Emelyanenko A.M., Boinovich L.B.",
+    "title": "Cloaking, wash-out, and anti-icing: Contrasting SLIPS with fluorinated and silicone lubricants",
+    "link": "https://doi.org/10.1016/j.surfin.2025.108319"
+  },
+  {
+    "year": 2026,
+    "journal": "Langmuir, 42(22), 15407–15418.",
+    "tags": [
+      "супергидрофобность",
+      "антиобледенение"
+    ],
+    "authors": "Emelyanenko A.M., Emelyanenko K.A., Boinovich L.B.",
+    "title": "Laser-Engineered Superhydrophobic Carbon Fiber Fabrics as Multifunctional Surfaces for Passive Anti-Icing and Active Electrothermal De-Icing",
+    "link": "https://doi.org/10.1021/acs.langmuir.6c00592"
+  },
+  {
+    "year": 2026,
+    "journal": "Russian Journal of General Chemistry, 96(4), 44.",
+    "tags": [
+      "супергидрофобность"
+    ],
+    "authors": "Emelyanenko K.A., Yalishev V.S., Emelyanenko A.M., Boinovich L.B.",
+    "title": "Optimization of Laser Texturing Conditions for Accelerated Fabrication of Superhydrophobic Coatings with Controlled Properties",
+    "link": "https://doi.org/10.1134/S1070363225606714"
+  },
+  {
+    "year": 2026,
+    "journal": "Известия Академии наук. Серия химическая.",
+    "tags": [
+      "супергидрофобность",
+      "долговечность"
+    ],
+    "authors": "Емельяненко К.А., Ялышев В.Ш., Емельяненко А.М., Бойнович Л.Б.",
+    "title": "Супергидрофобный стеклопластик для открытой атмосферы: лазерная инженерия поверхности",
+    "link": ""
+  },
+  {
+    "year": 2026,
+    "journal": "Эпидемиология и вакцинопрофилактика.",
+    "tags": [
+      "бактерицид",
+      "супергидрофобность",
+      "супергидрофильность"
+    ],
+    "authors": "Чернуха М.Ю., Аветисян Л.Р., Домблидес Э.А., Емельяненко К.А., Буглак А.В., Емельяненко А.М., Бойнович Л.Б.",
+    "title": "Оценка эффективности различных антимикробных поверхностей как способа борьбы с распространением инфекций в медицинских учреждениях",
+    "link": ""
   }
   
 ]
 
-function removeDuplicates(literature) {
+removeDuplicates = function(literature) {
     const seenTitles = new Set();
     const seenLinks = new Set();
     let duplicatesRemoved = 0;
 
-    // Filter the literature array
+    const normalizeTitle = (title) => title.trim().toLowerCase().replace(/\s+/g, " ").replace(/[–—]/g, "-");
+    const normalizeLink = (link) => link.trim().toLowerCase()
+        .replace(/^http:\/\/dx\.doi\.org\//, "https://doi.org/")
+        .replace(/^https:\/\/dx\.doi\.org\//, "https://doi.org/");
+
     const filteredLiterature = literature.filter(item => {
-        // Strip whitespace from title and link
         const strippedTitle = item.title.trim();
         const strippedLink = item.link.trim();
+        const normalizedTitle = normalizeTitle(strippedTitle);
+        const normalizedLink = normalizeLink(strippedLink);
 
-        // Check if the title or link has been seen before
-        if (seenTitles.has(strippedTitle) || seenLinks.has(strippedLink)) {
+        if (seenTitles.has(normalizedTitle) || (normalizedLink && seenLinks.has(normalizedLink))) {
             console.error(`Duplicate found and removed: Title - "${strippedTitle}", Link - "${strippedLink}"`);
             duplicatesRemoved++;
-            return false; // Exclude this item from the filtered array
+            return false;
         }
 
-        // Add the stripped title and link to the sets
-        seenTitles.add(strippedTitle);
-        seenLinks.add(strippedLink);
-        return true; // Include this item in the filtered array
+        seenTitles.add(normalizedTitle);
+        if (normalizedLink) {
+            seenLinks.add(normalizedLink);
+        }
+        return true;
     });
 
-    // Log the total number of duplicates removed
     if (duplicatesRemoved > 0) {
         console.log(`Total duplicates removed: ${duplicatesRemoved}`);
     } else {
@@ -1316,7 +1443,7 @@ function removeDuplicates(literature) {
     }
 
     return filteredLiterature;
-}
+};
 
 literature = removeDuplicates(literature);
 
